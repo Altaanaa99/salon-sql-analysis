@@ -61,3 +61,16 @@ On a Mac, open Terminal in this folder and run:
 sqlite3 salon.db < salon_setup.sql
 sqlite3 -header -column salon.db < analysis_queries.sql
 ```
+
+
+## 📊 Dashboard
+
+I exported the data from SQL to a CSV file and built a dashboard in Google Sheets using pivot tables and charts.
+
+👉 [View the Salon Performance Dashboard](https://docs.google.com/spreadsheets/d/1iq8j7Ko2rd3T8FEeI4klMK8sRn3zgui6qAHIwKtIVsI/edit?usp=sharing)
+
+**Key findings**
+- Revenue grew from $4,105 in June to a peak of $8,845 in October
+- Jordan Kim (Color Specialist) brought in the most revenue ($14,755), while Maya Lopez, the Senior Stylist, brought in the least ($4,490)
+- Instagram clients generated the most revenue ($12,020), followed by walk-ins ($10,745)
+- Color services (Balayage, Highlights, Full Color) made up about 48% of revenue ($19,200 of $39,825)
