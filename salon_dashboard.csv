@@ -1,0 +1,652 @@
+appointment_id,appt_date,month,appt_time,status,client,source,stylist,role,service,category,price,revenue,tip
+1,2025-06-01,2025-06,15:00,Completed,"Noah Clark",Walk-in,"Maya Lopez","Senior Stylist","Deep Conditioning",Treatment,35.0,35.0,5.25
+2,2025-06-01,2025-06,15:00,Completed,"Zoe Patel",Referral,"Sam Carter","Nail Technician","Gel Manicure",Nails,45.0,45.0,11.25
+3,2025-06-01,2025-06,16:00,Completed,"Noah Allen",Referral,"Jordan Kim","Color Specialist",Highlights,Color,160.0,160.0,32.0
+6,2025-06-03,2025-06,10:00,Completed,"Maria Martinez",Instagram,"Jordan Kim","Color Specialist","Men's Haircut",Hair,40.0,40.0,6.0
+5,2025-06-03,2025-06,13:00,Completed,"Layla Davis",Google,"Maya Lopez","Senior Stylist","Men's Haircut",Hair,40.0,40.0,10.0
+4,2025-06-03,2025-06,17:00,Completed,"Grace Hall",Walk-in,"Jordan Kim","Color Specialist","Deep Conditioning",Treatment,35.0,35.0,5.25
+7,2025-06-04,2025-06,12:00,Completed,"Zoe Patel",Referral,"Maya Lopez","Senior Stylist",Blowout,Hair,45.0,45.0,9.0
+8,2025-06-04,2025-06,15:00,Cancelled,"Noah Allen",Referral,"Jordan Kim","Color Specialist","Women's Haircut",Hair,65.0,0,0.0
+12,2025-06-06,2025-06,09:00,Cancelled,"Aiden Garcia",Walk-in,"Sam Carter","Nail Technician","Eyebrow Wax",Waxing,20.0,0,0.0
+10,2025-06-06,2025-06,12:00,Completed,"Ava Patel",Referral,"Jordan Kim","Color Specialist","Deep Conditioning",Treatment,35.0,35.0,7.0
+11,2025-06-06,2025-06,15:00,Completed,"Lucas Brown",Instagram,"Priya Shah",Stylist,Blowout,Hair,45.0,45.0,9.0
+9,2025-06-06,2025-06,17:00,Completed,"Nora Wilson",Yelp,"Jordan Kim","Color Specialist",Blowout,Hair,45.0,45.0,11.25
+13,2025-06-07,2025-06,11:00,Completed,"Ella Lee",Google,"Jordan Kim","Color Specialist",Blowout,Hair,45.0,45.0,9.0
+14,2025-06-07,2025-06,13:00,Completed,"Noah Clark",Walk-in,"Jordan Kim","Color Specialist",Blowout,Hair,45.0,45.0,9.0
+15,2025-06-07,2025-06,17:00,Completed,"Aria Davis",Instagram,"Maya Lopez","Senior Stylist","Women's Haircut",Hair,65.0,65.0,11.7
+16,2025-06-08,2025-06,12:00,Completed,"Hannah Lee",Instagram,"Sam Carter","Nail Technician","Gel Manicure",Nails,45.0,45.0,0.0
+18,2025-06-10,2025-06,13:00,Completed,"Jack Wilson",Yelp,"Maya Lopez","Senior Stylist","Women's Haircut",Hair,65.0,65.0,0.0
+19,2025-06-10,2025-06,15:00,Cancelled,"Ivy Clark",Referral,"Priya Shah",Stylist,Highlights,Color,160.0,0,0.0
+17,2025-06-10,2025-06,16:00,Completed,"Sofia Lopez",Walk-in,"Jordan Kim","Color Specialist",Highlights,Color,160.0,160.0,28.8
+20,2025-06-11,2025-06,09:00,Completed,"Sofia Clark",Instagram,"Sam Carter","Nail Technician",Pedicure,Nails,55.0,55.0,11.0
+21,2025-06-11,2025-06,14:00,Completed,"Layla Wilson",Referral,"Priya Shah",Stylist,"Women's Haircut",Hair,65.0,65.0,13.0
+22,2025-06-11,2025-06,16:00,Completed,"Liam Smith",Yelp,"Jordan Kim","Color Specialist","Women's Haircut",Hair,65.0,65.0,13.0
+23,2025-06-11,2025-06,17:00,Completed,"Owen Patel",Walk-in,"Priya Shah",Stylist,"Full Color",Color,120.0,120.0,24.0
+24,2025-06-12,2025-06,13:00,Cancelled,"Ava Clark",Yelp,"Maya Lopez","Senior Stylist","Men's Haircut",Hair,40.0,0,0.0
+25,2025-06-12,2025-06,14:00,Completed,"Isabella Patel",Walk-in,"Priya Shah",Stylist,"Full Color",Color,120.0,120.0,21.6
+26,2025-06-12,2025-06,14:00,Completed,"Jack Nguyen",Google,"Jordan Kim","Color Specialist","Men's Haircut",Hair,40.0,40.0,10.0
+28,2025-06-13,2025-06,10:00,Completed,"Mia Wilson",Walk-in,"Jordan Kim","Color Specialist","Full Color",Color,120.0,120.0,24.0
+27,2025-06-13,2025-06,15:00,Completed,"Owen Lopez",Instagram,"Maya Lopez","Senior Stylist","Women's Haircut",Hair,65.0,65.0,9.75
+29,2025-06-13,2025-06,17:00,Completed,"Nora Wilson",Yelp,"Priya Shah",Stylist,Highlights,Color,160.0,160.0,32.0
+30,2025-06-14,2025-06,10:00,Completed,"Daniel Brown",Instagram,"Maya Lopez","Senior Stylist","Men's Haircut",Hair,40.0,40.0,7.2
+31,2025-06-14,2025-06,12:00,Completed,"Owen Brown",Instagram,"Jordan Kim","Color Specialist",Highlights,Color,160.0,160.0,32.0
+32,2025-06-14,2025-06,13:00,Completed,"Emma Brown",Walk-in,"Maya Lopez","Senior Stylist","Eyebrow Wax",Waxing,20.0,20.0,3.0
+33,2025-06-15,2025-06,09:00,No-show,"Lucas Brown",Instagram,"Priya Shah",Stylist,"Full Color",Color,120.0,0,0.0
+35,2025-06-15,2025-06,09:00,Completed,"Noah Wilson",Referral,"Maya Lopez","Senior Stylist",Blowout,Hair,45.0,45.0,9.0
+36,2025-06-15,2025-06,10:00,Completed,"Owen Brown",Instagram,"Jordan Kim","Color Specialist","Women's Haircut",Hair,65.0,65.0,0.0
+34,2025-06-15,2025-06,16:00,Completed,"Luna Hall",Walk-in,"Sam Carter","Nail Technician","Gel Manicure",Nails,45.0,45.0,0.0
+37,2025-06-17,2025-06,10:00,No-show,"Zoe Patel",Referral,"Priya Shah",Stylist,Highlights,Color,160.0,0,0.0
+39,2025-06-17,2025-06,13:00,Completed,"Nora Wilson",Yelp,"Priya Shah",Stylist,Highlights,Color,160.0,160.0,0.0
+38,2025-06-17,2025-06,17:00,Completed,"Owen Brown",Instagram,"Sam Carter","Nail Technician","Gel Manicure",Nails,45.0,45.0,9.0
+41,2025-06-18,2025-06,09:00,Completed,"Isabella Patel",Walk-in,"Jordan Kim","Color Specialist",Highlights,Color,160.0,160.0,40.0
+40,2025-06-18,2025-06,13:00,Completed,"Grace Hall",Walk-in,"Maya Lopez","Senior Stylist","Women's Haircut",Hair,65.0,65.0,9.75
+42,2025-06-18,2025-06,13:00,Completed,"Noah Wilson",Referral,"Jordan Kim","Color Specialist","Women's Haircut",Hair,65.0,65.0,13.0
+44,2025-06-19,2025-06,10:00,Completed,"Zoe Patel",Referral,"Maya Lopez","Senior Stylist","Men's Haircut",Hair,40.0,40.0,7.2
+43,2025-06-19,2025-06,12:00,Completed,"Nora Patel",Instagram,"Sam Carter","Nail Technician","Eyebrow Wax",Waxing,20.0,20.0,5.0
+46,2025-06-20,2025-06,12:00,No-show,"Ava Clark",Yelp,"Maya Lopez","Senior Stylist","Men's Haircut",Hair,40.0,0,0.0
+45,2025-06-20,2025-06,15:00,Cancelled,"Noah Patel",Yelp,"Priya Shah",Stylist,"Full Color",Color,120.0,0,0.0
+47,2025-06-21,2025-06,11:00,Completed,"Sofia Lopez",Walk-in,"Maya Lopez","Senior Stylist","Men's Haircut",Hair,40.0,40.0,8.0
+49,2025-06-21,2025-06,14:00,Completed,"Ava Lopez",Google,"Priya Shah",Stylist,"Full Color",Color,120.0,120.0,0.0
+48,2025-06-21,2025-06,15:00,Completed,"Aiden Garcia",Walk-in,"Priya Shah",Stylist,"Women's Haircut",Hair,65.0,65.0,13.0
+50,2025-06-22,2025-06,09:00,Completed,"Layla Wilson",Referral,"Priya Shah",Stylist,Blowout,Hair,45.0,45.0,8.1
+51,2025-06-22,2025-06,17:00,Completed,"Aria Davis",Instagram,"Jordan Kim","Color Specialist","Women's Haircut",Hair,65.0,65.0,0.0
+56,2025-06-24,2025-06,11:00,Completed,"Aiden Garcia",Walk-in,"Jordan Kim","Color Specialist","Full Color",Color,120.0,120.0,21.6
+54,2025-06-24,2025-06,12:00,Completed,"Maria Martinez",Instagram,"Priya Shah",Stylist,"Women's Haircut",Hair,65.0,65.0,11.7
+55,2025-06-24,2025-06,12:00,No-show,"Luna Hall",Walk-in,"Jordan Kim","Color Specialist",Highlights,Color,160.0,0,0.0
+52,2025-06-24,2025-06,16:00,Completed,"Henry Clark",Walk-in,"Jordan Kim","Color Specialist",Blowout,Hair,45.0,45.0,6.75
+53,2025-06-24,2025-06,16:00,Cancelled,"Ivy Smith",Walk-in,"Jordan Kim","Color Specialist","Women's Haircut",Hair,65.0,0,0.0
+59,2025-06-25,2025-06,09:00,Completed,"Ella Brown",Referral,"Sam Carter","Nail Technician",Pedicure,Nails,55.0,55.0,9.9
+58,2025-06-25,2025-06,10:00,Completed,"Maria Young",Google,"Jordan Kim","Color Specialist","Full Color",Color,120.0,120.0,24.0
+57,2025-06-25,2025-06,17:00,Completed,"Maria Martinez",Instagram,"Priya Shah",Stylist,"Full Color",Color,120.0,120.0,18.0
+61,2025-06-26,2025-06,12:00,Completed,"Noah Clark",Walk-in,"Maya Lopez","Senior Stylist","Men's Haircut",Hair,40.0,40.0,6.0
+62,2025-06-26,2025-06,15:00,No-show,"Grace Martinez",Google,"Priya Shah",Stylist,"Full Color",Color,120.0,0,0.0
+60,2025-06-26,2025-06,17:00,Completed,"Daniel Brown",Instagram,"Priya Shah",Stylist,"Full Color",Color,120.0,120.0,24.0
+63,2025-06-28,2025-06,11:00,Completed,"Sofia Clark",Instagram,"Maya Lopez","Senior Stylist","Eyebrow Wax",Waxing,20.0,20.0,3.0
+66,2025-06-28,2025-06,12:00,Completed,"Luna Young",Google,"Priya Shah",Stylist,Balayage,Color,220.0,220.0,44.0
+64,2025-06-28,2025-06,14:00,Completed,"Ethan Lee",Walk-in,"Sam Carter","Nail Technician",Pedicure,Nails,55.0,55.0,11.0
+65,2025-06-28,2025-06,14:00,Completed,"Noah Chen",Walk-in,"Sam Carter","Nail Technician",Pedicure,Nails,55.0,55.0,11.0
+67,2025-06-29,2025-06,09:00,Completed,"Daniel Brown",Instagram,"Sam Carter","Nail Technician","Gel Manicure",Nails,45.0,45.0,0.0
+68,2025-07-01,2025-07,11:00,Completed,"Isabella Patel",Walk-in,"Priya Shah",Stylist,Blowout,Hair,45.0,45.0,0.0
+69,2025-07-01,2025-07,12:00,Completed,"Nora Patel",Instagram,"Jordan Kim","Color Specialist","Full Color",Color,120.0,120.0,21.6
+70,2025-07-02,2025-07,13:00,Completed,"Aria Davis",Instagram,"Jordan Kim","Color Specialist","Women's Haircut",Hair,65.0,65.0,9.75
+71,2025-07-02,2025-07,13:00,Completed,"Ethan Lee",Walk-in,"Sam Carter","Nail Technician","Eyebrow Wax",Waxing,20.0,20.0,4.0
+72,2025-07-02,2025-07,16:00,Completed,"Noah Clark",Walk-in,"Jordan Kim","Color Specialist","Men's Haircut",Hair,40.0,40.0,8.0
+75,2025-07-03,2025-07,11:00,Completed,"Henry Clark",Walk-in,"Priya Shah",Stylist,"Men's Haircut",Hair,40.0,40.0,0.0
+74,2025-07-03,2025-07,12:00,Completed,"Aiden Garcia",Walk-in,"Sam Carter","Nail Technician","Gel Manicure",Nails,45.0,45.0,8.1
+73,2025-07-03,2025-07,13:00,Completed,"Lucas Brown",Instagram,"Sam Carter","Nail Technician",Pedicure,Nails,55.0,55.0,0.0
+76,2025-07-03,2025-07,14:00,Completed,"Ivy Nguyen",Yelp,"Priya Shah",Stylist,Blowout,Hair,45.0,45.0,0.0
+79,2025-07-04,2025-07,11:00,Completed,"Ava Patel",Referral,"Jordan Kim","Color Specialist","Full Color",Color,120.0,120.0,18.0
+78,2025-07-04,2025-07,13:00,Completed,"Aria Davis",Instagram,"Sam Carter","Nail Technician",Pedicure,Nails,55.0,55.0,9.9
+77,2025-07-04,2025-07,17:00,Completed,"Ruby Martinez",Instagram,"Jordan Kim","Color Specialist","Deep Conditioning",Treatment,35.0,35.0,6.3
+80,2025-07-05,2025-07,10:00,Completed,"Ava Lopez",Google,"Sam Carter","Nail Technician",Pedicure,Nails,55.0,55.0,0.0
+84,2025-07-05,2025-07,10:00,Completed,"Grace Hall",Walk-in,"Jordan Kim","Color Specialist","Men's Haircut",Hair,40.0,40.0,10.0
+85,2025-07-05,2025-07,11:00,Cancelled,"Ivy Brown",Google,"Priya Shah",Stylist,"Full Color",Color,120.0,0,0.0
+81,2025-07-05,2025-07,13:00,Completed,"Ivy Smith",Walk-in,"Jordan Kim","Color Specialist","Women's Haircut",Hair,65.0,65.0,11.7
+86,2025-07-05,2025-07,13:00,Completed,"Henry Chen",Yelp,"Sam Carter","Nail Technician",Pedicure,Nails,55.0,55.0,9.9
+83,2025-07-05,2025-07,15:00,Completed,"Lucas Davis",Instagram,"Sam Carter","Nail Technician",Pedicure,Nails,55.0,55.0,0.0
+82,2025-07-05,2025-07,17:00,Completed,"Sofia Clark",Instagram,"Maya Lopez","Senior Stylist","Men's Haircut",Hair,40.0,40.0,10.0
+88,2025-07-06,2025-07,09:00,Completed,"Liam Allen",Referral,"Jordan Kim","Color Specialist","Deep Conditioning",Treatment,35.0,35.0,5.25
+87,2025-07-06,2025-07,10:00,No-show,"Daniel Brown",Instagram,"Priya Shah",Stylist,"Eyebrow Wax",Waxing,20.0,0,0.0
+89,2025-07-06,2025-07,10:00,Completed,"Ava Lopez",Google,"Priya Shah",Stylist,"Eyebrow Wax",Waxing,20.0,20.0,5.0
+90,2025-07-06,2025-07,12:00,No-show,"Ava Lopez",Google,"Jordan Kim","Color Specialist","Women's Haircut",Hair,65.0,0,0.0
+91,2025-07-08,2025-07,12:00,Completed,"Luna Young",Google,"Sam Carter","Nail Technician","Gel Manicure",Nails,45.0,45.0,6.75
+92,2025-07-08,2025-07,13:00,Completed,"Zoe Patel",Referral,"Maya Lopez","Senior Stylist","Deep Conditioning",Treatment,35.0,35.0,5.25
+93,2025-07-09,2025-07,11:00,Completed,"Ava Patel",Referral,"Maya Lopez","Senior Stylist","Women's Haircut",Hair,65.0,65.0,9.75
+94,2025-07-09,2025-07,15:00,Completed,"Lucas Brown",Instagram,"Maya Lopez","Senior Stylist","Men's Haircut",Hair,40.0,40.0,0.0
+95,2025-07-09,2025-07,16:00,Completed,"Layla Davis",Google,"Sam Carter","Nail Technician",Pedicure,Nails,55.0,55.0,13.75
+97,2025-07-10,2025-07,10:00,Cancelled,"Nora Patel",Instagram,"Priya Shah",Stylist,"Full Color",Color,120.0,0,0.0
+98,2025-07-10,2025-07,13:00,Completed,"Ava Clark",Yelp,"Maya Lopez","Senior Stylist","Women's Haircut",Hair,65.0,65.0,16.25
+96,2025-07-10,2025-07,16:00,Completed,"Noah Clark",Walk-in,"Maya Lopez","Senior Stylist","Eyebrow Wax",Waxing,20.0,20.0,4.0
+99,2025-07-10,2025-07,17:00,Completed,"Luna Hall",Walk-in,"Priya Shah",Stylist,"Men's Haircut",Hair,40.0,40.0,10.0
+102,2025-07-11,2025-07,11:00,Completed,"Camila Wilson",Referral,"Sam Carter","Nail Technician","Gel Manicure",Nails,45.0,45.0,9.0
+101,2025-07-11,2025-07,14:00,Completed,"Camila Wilson",Referral,"Jordan Kim","Color Specialist","Deep Conditioning",Treatment,35.0,35.0,7.0
+100,2025-07-11,2025-07,17:00,Completed,"Ruby Martinez",Instagram,"Priya Shah",Stylist,"Women's Haircut",Hair,65.0,65.0,9.75
+103,2025-07-12,2025-07,10:00,Completed,"Ella Lee",Google,"Jordan Kim","Color Specialist","Women's Haircut",Hair,65.0,65.0,11.7
+106,2025-07-13,2025-07,12:00,Completed,"Owen Lopez",Instagram,"Jordan Kim","Color Specialist","Women's Haircut",Hair,65.0,65.0,11.7
+107,2025-07-13,2025-07,12:00,Completed,"Mia Hall",Yelp,"Jordan Kim","Color Specialist",Blowout,Hair,45.0,45.0,11.25
+105,2025-07-13,2025-07,13:00,Completed,"Henry Brown",Referral,"Sam Carter","Nail Technician","Eyebrow Wax",Waxing,20.0,20.0,5.0
+108,2025-07-13,2025-07,13:00,Completed,"Ava Lopez",Google,"Sam Carter","Nail Technician",Pedicure,Nails,55.0,55.0,9.9
+104,2025-07-13,2025-07,15:00,Cancelled,"Sofia Lopez",Walk-in,"Priya Shah",Stylist,Blowout,Hair,45.0,0,0.0
+112,2025-07-15,2025-07,09:00,Completed,"Ruby Hall",Yelp,"Jordan Kim","Color Specialist",Highlights,Color,160.0,160.0,40.0
+110,2025-07-15,2025-07,10:00,Completed,"Luna Young",Google,"Sam Carter","Nail Technician","Gel Manicure",Nails,45.0,45.0,6.75
+109,2025-07-15,2025-07,11:00,Completed,"Maria Young",Google,"Maya Lopez","Senior Stylist",Blowout,Hair,45.0,45.0,9.0
+111,2025-07-15,2025-07,14:00,Completed,"Liam Allen",Referral,"Jordan Kim","Color Specialist","Full Color",Color,120.0,120.0,21.6
+113,2025-07-15,2025-07,15:00,Completed,"Noah Brown",Yelp,"Jordan Kim","Color Specialist","Women's Haircut",Hair,65.0,65.0,13.0
+115,2025-07-16,2025-07,09:00,Completed,"Layla Martinez",Instagram,"Priya Shah",Stylist,Blowout,Hair,45.0,45.0,8.1
+116,2025-07-16,2025-07,13:00,Completed,"Grace Hall",Walk-in,"Sam Carter","Nail Technician","Gel Manicure",Nails,45.0,45.0,0.0
+114,2025-07-16,2025-07,16:00,Completed,"Owen Brown",Instagram,"Jordan Kim","Color Specialist",Blowout,Hair,45.0,45.0,8.1
+117,2025-07-17,2025-07,12:00,Completed,"Owen Patel",Walk-in,"Priya Shah",Stylist,Blowout,Hair,45.0,45.0,8.1
+118,2025-07-17,2025-07,15:00,Completed,"Ethan Lee",Walk-in,"Maya Lopez","Senior Stylist","Deep Conditioning",Treatment,35.0,35.0,0.0
+119,2025-07-17,2025-07,15:00,Completed,"Chloe Garcia",Instagram,"Maya Lopez","Senior Stylist",Blowout,Hair,45.0,45.0,8.1
+120,2025-07-18,2025-07,10:00,Completed,"Ava Patel",Referral,"Priya Shah",Stylist,Balayage,Color,220.0,220.0,0.0
+122,2025-07-18,2025-07,10:00,Completed,"Jack Wilson",Yelp,"Maya Lopez","Senior Stylist","Men's Haircut",Hair,40.0,40.0,0.0
+124,2025-07-18,2025-07,11:00,Completed,"Zoe Patel",Referral,"Priya Shah",Stylist,"Women's Haircut",Hair,65.0,65.0,0.0
+123,2025-07-18,2025-07,14:00,Completed,"Lucas Hall",Google,"Jordan Kim","Color Specialist","Women's Haircut",Hair,65.0,65.0,9.75
+121,2025-07-18,2025-07,15:00,Cancelled,"Isabella Patel",Walk-in,"Jordan Kim","Color Specialist",Highlights,Color,160.0,0,0.0
+127,2025-07-19,2025-07,09:00,Completed,"Noah Wilson",Referral,"Priya Shah",Stylist,Balayage,Color,220.0,220.0,0.0
+126,2025-07-19,2025-07,14:00,Completed,"Mia Wilson",Walk-in,"Priya Shah",Stylist,"Eyebrow Wax",Waxing,20.0,20.0,0.0
+128,2025-07-19,2025-07,14:00,Completed,"Ivy Nguyen",Yelp,"Jordan Kim","Color Specialist","Full Color",Color,120.0,120.0,0.0
+125,2025-07-19,2025-07,16:00,Completed,"Grace Hall",Walk-in,"Priya Shah",Stylist,Balayage,Color,220.0,220.0,55.0
+129,2025-07-19,2025-07,17:00,Completed,"Mia Wilson",Walk-in,"Maya Lopez","Senior Stylist","Eyebrow Wax",Waxing,20.0,20.0,5.0
+132,2025-07-20,2025-07,12:00,Completed,"Ella Lee",Google,"Jordan Kim","Color Specialist",Balayage,Color,220.0,220.0,44.0
+130,2025-07-20,2025-07,14:00,Completed,"Daniel Brown",Instagram,"Sam Carter","Nail Technician",Pedicure,Nails,55.0,55.0,13.75
+131,2025-07-20,2025-07,14:00,No-show,"Zoe Patel",Referral,"Maya Lopez","Senior Stylist","Women's Haircut",Hair,65.0,0,0.0
+133,2025-07-22,2025-07,15:00,Completed,"Liam Allen",Referral,"Priya Shah",Stylist,"Eyebrow Wax",Waxing,20.0,20.0,5.0
+138,2025-07-23,2025-07,09:00,Completed,"Daniel Smith",Instagram,"Sam Carter","Nail Technician","Gel Manicure",Nails,45.0,45.0,6.75
+135,2025-07-23,2025-07,11:00,Cancelled,"Mia Lee",Instagram,"Priya Shah",Stylist,Blowout,Hair,45.0,0,0.0
+136,2025-07-23,2025-07,11:00,Completed,"Ivy Nguyen",Yelp,"Sam Carter","Nail Technician","Gel Manicure",Nails,45.0,45.0,0.0
+137,2025-07-23,2025-07,11:00,Completed,"Ivy Nguyen",Yelp,"Jordan Kim","Color Specialist",Blowout,Hair,45.0,45.0,11.25
+134,2025-07-23,2025-07,13:00,Completed,"Daniel Smith",Instagram,"Sam Carter","Nail Technician","Gel Manicure",Nails,45.0,45.0,11.25
+139,2025-07-24,2025-07,12:00,No-show,"Ella Brown",Referral,"Sam Carter","Nail Technician","Gel Manicure",Nails,45.0,0,0.0
+141,2025-07-24,2025-07,15:00,Completed,"Ivy Lopez",Yelp,"Sam Carter","Nail Technician","Gel Manicure",Nails,45.0,45.0,6.75
+140,2025-07-24,2025-07,17:00,Completed,"Stella Allen",Yelp,"Maya Lopez","Senior Stylist","Men's Haircut",Hair,40.0,40.0,10.0
+145,2025-07-25,2025-07,11:00,Completed,"Hannah Lee",Instagram,"Priya Shah",Stylist,"Full Color",Color,120.0,120.0,30.0
+142,2025-07-25,2025-07,12:00,No-show,"Henry Brown",Referral,"Jordan Kim","Color Specialist","Women's Haircut",Hair,65.0,0,0.0
+144,2025-07-25,2025-07,16:00,Completed,"Aiden Garcia",Walk-in,"Priya Shah",Stylist,"Women's Haircut",Hair,65.0,65.0,11.7
+146,2025-07-25,2025-07,16:00,Cancelled,"Ivy Brown",Google,"Priya Shah",Stylist,"Men's Haircut",Hair,40.0,0,0.0
+143,2025-07-25,2025-07,17:00,Completed,"Jack Wilson",Yelp,"Sam Carter","Nail Technician",Pedicure,Nails,55.0,55.0,11.0
+148,2025-07-26,2025-07,10:00,Cancelled,"Aiden Garcia",Walk-in,"Jordan Kim","Color Specialist","Women's Haircut",Hair,65.0,0,0.0
+147,2025-07-26,2025-07,13:00,Completed,"Chloe Garcia",Instagram,"Jordan Kim","Color Specialist","Full Color",Color,120.0,120.0,18.0
+149,2025-07-26,2025-07,15:00,Completed,"Daniel Brown",Instagram,"Maya Lopez","Senior Stylist",Blowout,Hair,45.0,45.0,11.25
+150,2025-07-27,2025-07,14:00,Completed,"Liam Allen",Referral,"Maya Lopez","Senior Stylist","Women's Haircut",Hair,65.0,65.0,9.75
+151,2025-07-27,2025-07,16:00,Completed,"Aiden Garcia",Walk-in,"Jordan Kim","Color Specialist","Full Color",Color,120.0,120.0,0.0
+153,2025-07-29,2025-07,13:00,Completed,"Camila Wilson",Referral,"Sam Carter","Nail Technician",Pedicure,Nails,55.0,55.0,8.25
+152,2025-07-29,2025-07,17:00,Cancelled,"Lucas Brown",Instagram,"Maya Lopez","Senior Stylist","Men's Haircut",Hair,40.0,0,0.0
+154,2025-07-30,2025-07,10:00,Completed,"Mia Wilson",Walk-in,"Jordan Kim","Color Specialist",Balayage,Color,220.0,220.0,44.0
+155,2025-07-30,2025-07,12:00,Completed,"Emma Brown",Walk-in,"Priya Shah",Stylist,"Women's Haircut",Hair,65.0,65.0,11.7
+156,2025-07-30,2025-07,15:00,Completed,"Camila Wilson",Referral,"Jordan Kim","Color Specialist",Balayage,Color,220.0,220.0,0.0
+157,2025-07-30,2025-07,15:00,Cancelled,"Ava Lopez",Google,"Jordan Kim","Color Specialist",Highlights,Color,160.0,0,0.0
+158,2025-07-31,2025-07,14:00,Completed,"Aria Davis",Instagram,"Maya Lopez","Senior Stylist","Women's Haircut",Hair,65.0,65.0,0.0
+160,2025-08-01,2025-08,10:00,Completed,"Maria Martinez",Instagram,"Maya Lopez","Senior Stylist","Women's Haircut",Hair,65.0,65.0,13.0
+159,2025-08-01,2025-08,11:00,Completed,"Owen Brown",Instagram,"Jordan Kim","Color Specialist",Blowout,Hair,45.0,45.0,9.0
+161,2025-08-01,2025-08,14:00,Cancelled,"Ruby Davis",Google,"Sam Carter","Nail Technician",Pedicure,Nails,55.0,0,0.0
+163,2025-08-01,2025-08,14:00,Completed,"Noah Martinez",Yelp,"Maya Lopez","Senior Stylist","Deep Conditioning",Treatment,35.0,35.0,6.3
+162,2025-08-01,2025-08,16:00,Completed,"Owen Lopez",Instagram,"Sam Carter","Nail Technician","Eyebrow Wax",Waxing,20.0,20.0,3.0
+166,2025-08-02,2025-08,10:00,Completed,"Jack Nguyen",Google,"Maya Lopez","Senior Stylist","Men's Haircut",Hair,40.0,40.0,7.2
+167,2025-08-02,2025-08,11:00,Completed,"Nora Wilson",Yelp,"Priya Shah",Stylist,Highlights,Color,160.0,160.0,28.8
+164,2025-08-02,2025-08,14:00,No-show,"Owen Smith",Yelp,"Sam Carter","Nail Technician","Gel Manicure",Nails,45.0,0,0.0
+165,2025-08-02,2025-08,15:00,Completed,"Ava Garcia",Google,"Jordan Kim","Color Specialist","Full Color",Color,120.0,120.0,30.0
+168,2025-08-02,2025-08,15:00,Completed,"Daniel Brown",Instagram,"Sam Carter","Nail Technician","Gel Manicure",Nails,45.0,45.0,0.0
+170,2025-08-03,2025-08,09:00,Completed,"Chloe Davis",Walk-in,"Priya Shah",Stylist,Balayage,Color,220.0,220.0,33.0
+171,2025-08-03,2025-08,09:00,Completed,"Hannah Lee",Instagram,"Jordan Kim","Color Specialist",Blowout,Hair,45.0,45.0,9.0
+169,2025-08-03,2025-08,11:00,No-show,"Sofia Lopez",Walk-in,"Priya Shah",Stylist,Blowout,Hair,45.0,0,0.0
+173,2025-08-05,2025-08,09:00,Completed,"Noah Chen",Walk-in,"Maya Lopez","Senior Stylist","Men's Haircut",Hair,40.0,40.0,8.0
+174,2025-08-05,2025-08,13:00,Completed,"Owen Lopez",Instagram,"Maya Lopez","Senior Stylist","Eyebrow Wax",Waxing,20.0,20.0,4.0
+172,2025-08-05,2025-08,17:00,Completed,"Liam Allen",Referral,"Sam Carter","Nail Technician","Gel Manicure",Nails,45.0,45.0,8.1
+176,2025-08-06,2025-08,14:00,Completed,"Ava Lopez",Google,"Sam Carter","Nail Technician","Eyebrow Wax",Waxing,20.0,20.0,5.0
+177,2025-08-06,2025-08,14:00,Completed,"Owen Smith",Yelp,"Sam Carter","Nail Technician",Pedicure,Nails,55.0,55.0,0.0
+175,2025-08-06,2025-08,16:00,Completed,"Ruby Davis",Google,"Maya Lopez","Senior Stylist","Women's Haircut",Hair,65.0,65.0,13.0
+178,2025-08-07,2025-08,09:00,Completed,"Ruby Martinez",Instagram,"Jordan Kim","Color Specialist","Men's Haircut",Hair,40.0,40.0,10.0
+179,2025-08-07,2025-08,10:00,Completed,"Liam Allen",Referral,"Sam Carter","Nail Technician",Pedicure,Nails,55.0,55.0,11.0
+180,2025-08-07,2025-08,10:00,Completed,"Henry Brown",Referral,"Priya Shah",Stylist,"Full Color",Color,120.0,120.0,21.6
+184,2025-08-08,2025-08,10:00,Completed,"Ella Brown",Referral,"Priya Shah",Stylist,"Eyebrow Wax",Waxing,20.0,20.0,5.0
+181,2025-08-08,2025-08,11:00,Cancelled,"Daniel Brown",Instagram,"Sam Carter","Nail Technician","Gel Manicure",Nails,45.0,0,0.0
+182,2025-08-08,2025-08,11:00,Completed,"Hannah Lee",Instagram,"Jordan Kim","Color Specialist",Balayage,Color,220.0,220.0,0.0
+183,2025-08-08,2025-08,11:00,Completed,"Mia Hall",Yelp,"Priya Shah",Stylist,"Full Color",Color,120.0,120.0,18.0
+185,2025-08-08,2025-08,17:00,Completed,"Maria Lopez",Yelp,"Jordan Kim","Color Specialist",Balayage,Color,220.0,220.0,55.0
+186,2025-08-09,2025-08,09:00,Completed,"Aiden Patel",Instagram,"Jordan Kim","Color Specialist","Deep Conditioning",Treatment,35.0,35.0,0.0
+190,2025-08-09,2025-08,12:00,Completed,"Stella Allen",Yelp,"Jordan Kim","Color Specialist",Blowout,Hair,45.0,45.0,6.75
+187,2025-08-09,2025-08,13:00,Completed,"Isabella Smith",Referral,"Sam Carter","Nail Technician","Eyebrow Wax",Waxing,20.0,20.0,5.0
+189,2025-08-09,2025-08,13:00,Completed,"Maria Martinez",Instagram,"Sam Carter","Nail Technician",Pedicure,Nails,55.0,55.0,0.0
+188,2025-08-09,2025-08,17:00,Completed,"Chloe Wilson",Walk-in,"Priya Shah",Stylist,Balayage,Color,220.0,220.0,39.6
+194,2025-08-10,2025-08,14:00,Cancelled,"Chloe Wilson",Walk-in,"Maya Lopez","Senior Stylist","Eyebrow Wax",Waxing,20.0,0,0.0
+191,2025-08-10,2025-08,15:00,Completed,"Daniel Garcia",Walk-in,"Jordan Kim","Color Specialist","Men's Haircut",Hair,40.0,40.0,7.2
+193,2025-08-10,2025-08,15:00,Cancelled,"Aria Davis",Instagram,"Jordan Kim","Color Specialist","Women's Haircut",Hair,65.0,0,0.0
+192,2025-08-10,2025-08,16:00,Completed,"Owen Lopez",Instagram,"Maya Lopez","Senior Stylist","Women's Haircut",Hair,65.0,65.0,13.0
+195,2025-08-10,2025-08,16:00,No-show,"Henry Brown",Referral,"Maya Lopez","Senior Stylist","Women's Haircut",Hair,65.0,0,0.0
+199,2025-08-12,2025-08,09:00,Completed,"Henry Brown",Referral,"Sam Carter","Nail Technician","Gel Manicure",Nails,45.0,45.0,11.25
+197,2025-08-12,2025-08,13:00,Completed,"Aiden Chen",Yelp,"Maya Lopez","Senior Stylist",Blowout,Hair,45.0,45.0,9.0
+198,2025-08-12,2025-08,15:00,Completed,"Noah Martinez",Yelp,"Maya Lopez","Senior Stylist","Women's Haircut",Hair,65.0,65.0,11.7
+196,2025-08-12,2025-08,17:00,Completed,"Ivy Nguyen",Yelp,"Jordan Kim","Color Specialist","Women's Haircut",Hair,65.0,65.0,9.75
+201,2025-08-13,2025-08,11:00,No-show,"Mia Hall",Yelp,"Jordan Kim","Color Specialist",Balayage,Color,220.0,0,0.0
+202,2025-08-13,2025-08,11:00,Completed,"Ruby Martinez",Instagram,"Jordan Kim","Color Specialist",Blowout,Hair,45.0,45.0,11.25
+200,2025-08-13,2025-08,16:00,Completed,"Luna Hall",Walk-in,"Priya Shah",Stylist,"Women's Haircut",Hair,65.0,65.0,11.7
+204,2025-08-14,2025-08,14:00,Completed,"Owen Lopez",Instagram,"Priya Shah",Stylist,Blowout,Hair,45.0,45.0,11.25
+203,2025-08-14,2025-08,16:00,Completed,"Layla Martinez",Instagram,"Jordan Kim","Color Specialist","Women's Haircut",Hair,65.0,65.0,9.75
+208,2025-08-15,2025-08,11:00,Completed,"Maria Martinez",Instagram,"Priya Shah",Stylist,"Full Color",Color,120.0,120.0,18.0
+211,2025-08-15,2025-08,11:00,Completed,"Maria Young",Google,"Maya Lopez","Senior Stylist","Deep Conditioning",Treatment,35.0,35.0,8.75
+207,2025-08-15,2025-08,12:00,Completed,"Emma Brown",Walk-in,"Priya Shah",Stylist,"Men's Haircut",Hair,40.0,40.0,10.0
+209,2025-08-15,2025-08,12:00,Completed,"Lucas Brown",Instagram,"Maya Lopez","Senior Stylist","Eyebrow Wax",Waxing,20.0,20.0,3.6
+205,2025-08-15,2025-08,13:00,Completed,"Emma Brown",Walk-in,"Priya Shah",Stylist,"Full Color",Color,120.0,120.0,0.0
+206,2025-08-15,2025-08,13:00,Completed,"Liam Allen",Referral,"Sam Carter","Nail Technician","Gel Manicure",Nails,45.0,45.0,0.0
+210,2025-08-15,2025-08,15:00,Completed,"Camila Wilson",Referral,"Maya Lopez","Senior Stylist",Blowout,Hair,45.0,45.0,11.25
+214,2025-08-16,2025-08,12:00,Cancelled,"Ava Lopez",Google,"Jordan Kim","Color Specialist","Men's Haircut",Hair,40.0,0,0.0
+213,2025-08-16,2025-08,13:00,Completed,"Ella Brown",Referral,"Priya Shah",Stylist,Blowout,Hair,45.0,45.0,6.75
+216,2025-08-16,2025-08,13:00,Completed,"Olivia Young",Google,"Sam Carter","Nail Technician",Pedicure,Nails,55.0,55.0,13.75
+215,2025-08-16,2025-08,14:00,Completed,"Chloe Lee",Referral,"Sam Carter","Nail Technician","Gel Manicure",Nails,45.0,45.0,11.25
+212,2025-08-16,2025-08,16:00,Cancelled,"Maria Martinez",Instagram,"Maya Lopez","Senior Stylist",Blowout,Hair,45.0,0,0.0
+221,2025-08-17,2025-08,10:00,Completed,"Sofia Clark",Instagram,"Jordan Kim","Color Specialist",Blowout,Hair,45.0,45.0,6.75
+217,2025-08-17,2025-08,11:00,Completed,"Henry Hall",Yelp,"Jordan Kim","Color Specialist",Blowout,Hair,45.0,45.0,8.1
+219,2025-08-17,2025-08,11:00,Completed,"Ruby Davis",Google,"Priya Shah",Stylist,Highlights,Color,160.0,160.0,40.0
+220,2025-08-17,2025-08,12:00,Completed,"Isabella Patel",Walk-in,"Priya Shah",Stylist,"Women's Haircut",Hair,65.0,65.0,0.0
+218,2025-08-17,2025-08,13:00,Completed,"Ava Lopez",Google,"Jordan Kim","Color Specialist","Women's Haircut",Hair,65.0,65.0,9.75
+222,2025-08-17,2025-08,15:00,Completed,"Ruby Smith",Referral,"Jordan Kim","Color Specialist",Highlights,Color,160.0,160.0,32.0
+225,2025-08-19,2025-08,09:00,No-show,"Aiden Garcia",Walk-in,"Maya Lopez","Senior Stylist","Women's Haircut",Hair,65.0,0,0.0
+226,2025-08-19,2025-08,09:00,Completed,"Ivy Davis",Walk-in,"Priya Shah",Stylist,"Eyebrow Wax",Waxing,20.0,20.0,5.0
+224,2025-08-19,2025-08,12:00,Completed,"Aiden Garcia",Walk-in,"Priya Shah",Stylist,"Women's Haircut",Hair,65.0,65.0,0.0
+223,2025-08-19,2025-08,14:00,Completed,"Noah Chen",Walk-in,"Sam Carter","Nail Technician","Gel Manicure",Nails,45.0,45.0,0.0
+228,2025-08-20,2025-08,10:00,Completed,"Daniel Garcia",Walk-in,"Jordan Kim","Color Specialist","Full Color",Color,120.0,120.0,24.0
+229,2025-08-20,2025-08,14:00,Completed,"Mia Wilson",Walk-in,"Sam Carter","Nail Technician","Gel Manicure",Nails,45.0,45.0,11.25
+227,2025-08-20,2025-08,17:00,Completed,"Ivy Clark",Referral,"Jordan Kim","Color Specialist",Blowout,Hair,45.0,45.0,6.75
+232,2025-08-21,2025-08,13:00,No-show,"Ruby Smith",Referral,"Jordan Kim","Color Specialist",Blowout,Hair,45.0,0,0.0
+231,2025-08-21,2025-08,14:00,Cancelled,"Daniel Smith",Instagram,"Priya Shah",Stylist,"Eyebrow Wax",Waxing,20.0,0,0.0
+230,2025-08-21,2025-08,15:00,Completed,"Owen Patel",Walk-in,"Sam Carter","Nail Technician",Pedicure,Nails,55.0,55.0,0.0
+237,2025-08-22,2025-08,10:00,Completed,"Ava Patel",Referral,"Sam Carter","Nail Technician",Pedicure,Nails,55.0,55.0,13.75
+235,2025-08-22,2025-08,12:00,Completed,"Mia Wilson",Walk-in,"Priya Shah",Stylist,"Eyebrow Wax",Waxing,20.0,20.0,3.0
+233,2025-08-22,2025-08,14:00,Completed,"Isabella Nguyen",Referral,"Priya Shah",Stylist,Highlights,Color,160.0,160.0,0.0
+234,2025-08-22,2025-08,15:00,Completed,"Sofia Lopez",Walk-in,"Jordan Kim","Color Specialist","Full Color",Color,120.0,120.0,21.6
+236,2025-08-22,2025-08,15:00,Completed,"Maria Martinez",Instagram,"Priya Shah",Stylist,"Full Color",Color,120.0,120.0,24.0
+239,2025-08-23,2025-08,14:00,Completed,"Ruby Davis",Google,"Jordan Kim","Color Specialist",Highlights,Color,160.0,160.0,32.0
+242,2025-08-23,2025-08,15:00,Completed,"Noah Allen",Referral,"Sam Carter","Nail Technician",Pedicure,Nails,55.0,55.0,0.0
+243,2025-08-23,2025-08,15:00,Completed,"Jack Wilson",Yelp,"Jordan Kim","Color Specialist",Highlights,Color,160.0,160.0,0.0
+240,2025-08-23,2025-08,16:00,Completed,"Owen Brown",Instagram,"Priya Shah",Stylist,"Women's Haircut",Hair,65.0,65.0,16.25
+238,2025-08-23,2025-08,17:00,Cancelled,"Luna Patel",Instagram,"Jordan Kim","Color Specialist",Highlights,Color,160.0,0,0.0
+241,2025-08-23,2025-08,17:00,Completed,"Daniel Brown",Instagram,"Maya Lopez","Senior Stylist","Women's Haircut",Hair,65.0,65.0,16.25
+244,2025-08-24,2025-08,09:00,Completed,"Olivia Young",Google,"Jordan Kim","Color Specialist","Women's Haircut",Hair,65.0,65.0,9.75
+245,2025-08-24,2025-08,14:00,No-show,"Chloe Lee",Referral,"Sam Carter","Nail Technician","Gel Manicure",Nails,45.0,0,0.0
+246,2025-08-24,2025-08,15:00,Completed,"Liam Allen",Referral,"Jordan Kim","Color Specialist","Deep Conditioning",Treatment,35.0,35.0,8.75
+248,2025-08-26,2025-08,09:00,No-show,"Henry Brown",Referral,"Maya Lopez","Senior Stylist","Men's Haircut",Hair,40.0,0,0.0
+250,2025-08-26,2025-08,12:00,Cancelled,"Aria Davis",Instagram,"Jordan Kim","Color Specialist",Blowout,Hair,45.0,0,0.0
+247,2025-08-26,2025-08,17:00,Completed,"Henry Chen",Yelp,"Maya Lopez","Senior Stylist",Blowout,Hair,45.0,45.0,6.75
+249,2025-08-26,2025-08,17:00,Completed,"Noah Allen",Referral,"Sam Carter","Nail Technician","Gel Manicure",Nails,45.0,45.0,6.75
+253,2025-08-27,2025-08,11:00,Completed,"Noah Patel",Yelp,"Jordan Kim","Color Specialist",Highlights,Color,160.0,160.0,28.8
+251,2025-08-27,2025-08,12:00,Completed,"Lucas Brown",Instagram,"Sam Carter","Nail Technician","Gel Manicure",Nails,45.0,45.0,0.0
+252,2025-08-27,2025-08,12:00,Completed,"Emma Brown",Walk-in,"Jordan Kim","Color Specialist","Full Color",Color,120.0,120.0,24.0
+255,2025-08-28,2025-08,09:00,Completed,"Isabella Clark",Instagram,"Jordan Kim","Color Specialist",Blowout,Hair,45.0,45.0,11.25
+254,2025-08-28,2025-08,14:00,Completed,"Olivia Clark",Yelp,"Sam Carter","Nail Technician","Gel Manicure",Nails,45.0,45.0,6.75
+256,2025-08-28,2025-08,15:00,Completed,"Henry Patel",Walk-in,"Sam Carter","Nail Technician","Eyebrow Wax",Waxing,20.0,20.0,0.0
+259,2025-08-29,2025-08,09:00,Completed,"Daniel Garcia",Walk-in,"Jordan Kim","Color Specialist","Women's Haircut",Hair,65.0,65.0,13.0
+258,2025-08-29,2025-08,12:00,Completed,"Liam Allen",Referral,"Sam Carter","Nail Technician","Gel Manicure",Nails,45.0,45.0,8.1
+261,2025-08-29,2025-08,12:00,Completed,"Mia Hall",Yelp,"Priya Shah",Stylist,"Women's Haircut",Hair,65.0,65.0,13.0
+262,2025-08-29,2025-08,12:00,Completed,"Sofia Lopez",Walk-in,"Jordan Kim","Color Specialist",Highlights,Color,160.0,160.0,40.0
+260,2025-08-29,2025-08,14:00,Completed,"Owen Brown",Instagram,"Maya Lopez","Senior Stylist","Men's Haircut",Hair,40.0,40.0,8.0
+257,2025-08-29,2025-08,15:00,Completed,"Jack Allen",Referral,"Sam Carter","Nail Technician","Gel Manicure",Nails,45.0,45.0,8.1
+264,2025-08-30,2025-08,10:00,Completed,"Lucas Brown",Instagram,"Sam Carter","Nail Technician","Eyebrow Wax",Waxing,20.0,20.0,4.0
+263,2025-08-30,2025-08,13:00,No-show,"Maria Martinez",Instagram,"Jordan Kim","Color Specialist","Deep Conditioning",Treatment,35.0,0,0.0
+265,2025-08-30,2025-08,15:00,Cancelled,"Aiden Garcia",Walk-in,"Sam Carter","Nail Technician","Gel Manicure",Nails,45.0,0,0.0
+266,2025-08-30,2025-08,16:00,Completed,"Luna Hall",Walk-in,"Sam Carter","Nail Technician",Pedicure,Nails,55.0,55.0,9.9
+267,2025-08-30,2025-08,16:00,Completed,"Ivy Nguyen",Yelp,"Jordan Kim","Color Specialist",Blowout,Hair,45.0,45.0,9.0
+268,2025-08-31,2025-08,09:00,Completed,"Aiden Garcia",Walk-in,"Jordan Kim","Color Specialist",Blowout,Hair,45.0,45.0,6.75
+269,2025-08-31,2025-08,15:00,Completed,"Jack Wilson",Yelp,"Priya Shah",Stylist,"Women's Haircut",Hair,65.0,65.0,9.75
+271,2025-08-31,2025-08,16:00,Completed,"Aria Davis",Instagram,"Sam Carter","Nail Technician",Pedicure,Nails,55.0,55.0,9.9
+270,2025-08-31,2025-08,17:00,Completed,"Liam Allen",Referral,"Sam Carter","Nail Technician",Pedicure,Nails,55.0,55.0,9.9
+273,2025-09-02,2025-09,09:00,Completed,"Ava Lopez",Google,"Jordan Kim","Color Specialist","Full Color",Color,120.0,120.0,24.0
+274,2025-09-02,2025-09,11:00,Completed,"Ivy Brown",Google,"Jordan Kim","Color Specialist",Balayage,Color,220.0,220.0,55.0
+275,2025-09-02,2025-09,16:00,Completed,"Noah Clark",Walk-in,"Priya Shah",Stylist,"Women's Haircut",Hair,65.0,65.0,0.0
+272,2025-09-02,2025-09,17:00,No-show,"Chloe Davis",Walk-in,"Jordan Kim","Color Specialist",Highlights,Color,160.0,0,0.0
+277,2025-09-03,2025-09,11:00,Completed,"Lucas Brown",Instagram,"Sam Carter","Nail Technician",Pedicure,Nails,55.0,55.0,0.0
+276,2025-09-03,2025-09,17:00,Completed,"Lucas Hall",Google,"Maya Lopez","Senior Stylist",Blowout,Hair,45.0,45.0,11.25
+280,2025-09-04,2025-09,09:00,Completed,"Aiden Chen",Yelp,"Sam Carter","Nail Technician","Gel Manicure",Nails,45.0,45.0,9.0
+281,2025-09-04,2025-09,11:00,Completed,"Liam Allen",Referral,"Jordan Kim","Color Specialist","Full Color",Color,120.0,120.0,24.0
+279,2025-09-04,2025-09,12:00,No-show,"Luna Patel",Instagram,"Priya Shah",Stylist,"Eyebrow Wax",Waxing,20.0,0,0.0
+278,2025-09-04,2025-09,14:00,Completed,"Isabella Patel",Walk-in,"Priya Shah",Stylist,Balayage,Color,220.0,220.0,44.0
+284,2025-09-05,2025-09,09:00,Completed,"Nora Patel",Instagram,"Priya Shah",Stylist,"Men's Haircut",Hair,40.0,40.0,7.2
+283,2025-09-05,2025-09,13:00,Completed,"Aiden Chen",Yelp,"Jordan Kim","Color Specialist","Deep Conditioning",Treatment,35.0,35.0,0.0
+285,2025-09-05,2025-09,15:00,Cancelled,"Lucas Brown",Instagram,"Maya Lopez","Senior Stylist","Women's Haircut",Hair,65.0,0,0.0
+282,2025-09-05,2025-09,17:00,Cancelled,"Leo Davis",Walk-in,"Sam Carter","Nail Technician",Pedicure,Nails,55.0,0,0.0
+286,2025-09-05,2025-09,17:00,Completed,"Nora Wilson",Yelp,"Priya Shah",Stylist,Highlights,Color,160.0,160.0,24.0
+287,2025-09-05,2025-09,17:00,Completed,"Ruby Martinez",Instagram,"Sam Carter","Nail Technician","Gel Manicure",Nails,45.0,45.0,8.1
+290,2025-09-06,2025-09,10:00,Completed,"Isabella Lopez",Google,"Sam Carter","Nail Technician","Gel Manicure",Nails,45.0,45.0,8.1
+292,2025-09-06,2025-09,10:00,Completed,"Henry Brown",Referral,"Maya Lopez","Senior Stylist","Men's Haircut",Hair,40.0,40.0,7.2
+293,2025-09-06,2025-09,11:00,Completed,"Daniel Brown",Instagram,"Sam Carter","Nail Technician","Gel Manicure",Nails,45.0,45.0,9.0
+291,2025-09-06,2025-09,13:00,Completed,"Ava Patel",Referral,"Sam Carter","Nail Technician","Gel Manicure",Nails,45.0,45.0,6.75
+289,2025-09-06,2025-09,14:00,Completed,"Hannah Lee",Instagram,"Jordan Kim","Color Specialist","Full Color",Color,120.0,120.0,24.0
+288,2025-09-06,2025-09,15:00,No-show,"Aiden Chen",Yelp,"Priya Shah",Stylist,"Women's Haircut",Hair,65.0,0,0.0
+294,2025-09-07,2025-09,09:00,Completed,"Leo Davis",Walk-in,"Jordan Kim","Color Specialist","Full Color",Color,120.0,120.0,30.0
+296,2025-09-07,2025-09,12:00,Completed,"Lucas Nguyen",Yelp,"Priya Shah",Stylist,"Women's Haircut",Hair,65.0,65.0,9.75
+297,2025-09-07,2025-09,13:00,Completed,"Nora Patel",Instagram,"Jordan Kim","Color Specialist","Women's Haircut",Hair,65.0,65.0,9.75
+298,2025-09-07,2025-09,13:00,Completed,"Lucas Davis",Instagram,"Jordan Kim","Color Specialist",Blowout,Hair,45.0,45.0,0.0
+295,2025-09-07,2025-09,15:00,Completed,"Daniel Smith",Instagram,"Priya Shah",Stylist,Highlights,Color,160.0,160.0,32.0
+301,2025-09-09,2025-09,11:00,Completed,"Noah Patel",Yelp,"Priya Shah",Stylist,Blowout,Hair,45.0,45.0,11.25
+302,2025-09-09,2025-09,11:00,No-show,"Grace Hall",Walk-in,"Jordan Kim","Color Specialist","Women's Haircut",Hair,65.0,0,0.0
+300,2025-09-09,2025-09,15:00,Completed,"Ruby Smith",Referral,"Priya Shah",Stylist,Blowout,Hair,45.0,45.0,8.1
+299,2025-09-09,2025-09,16:00,Completed,"Henry Brown",Referral,"Jordan Kim","Color Specialist","Full Color",Color,120.0,120.0,21.6
+303,2025-09-10,2025-09,12:00,Completed,"Noah Martinez",Yelp,"Sam Carter","Nail Technician","Gel Manicure",Nails,45.0,45.0,8.1
+304,2025-09-10,2025-09,12:00,Completed,"Olivia Clark",Yelp,"Maya Lopez","Senior Stylist",Blowout,Hair,45.0,45.0,11.25
+306,2025-09-10,2025-09,15:00,Completed,"Ava Patel",Referral,"Sam Carter","Nail Technician",Pedicure,Nails,55.0,55.0,8.25
+305,2025-09-10,2025-09,16:00,Cancelled,"Jack Nguyen",Google,"Sam Carter","Nail Technician",Pedicure,Nails,55.0,0,0.0
+309,2025-09-11,2025-09,10:00,Completed,"Chloe Garcia",Instagram,"Sam Carter","Nail Technician",Pedicure,Nails,55.0,55.0,9.9
+311,2025-09-11,2025-09,12:00,Completed,"Isabella Lopez",Google,"Jordan Kim","Color Specialist","Women's Haircut",Hair,65.0,65.0,16.25
+310,2025-09-11,2025-09,14:00,No-show,"Olivia Davis",Referral,"Priya Shah",Stylist,Balayage,Color,220.0,0,0.0
+307,2025-09-11,2025-09,15:00,Completed,"Isabella Patel",Walk-in,"Sam Carter","Nail Technician","Gel Manicure",Nails,45.0,45.0,11.25
+308,2025-09-11,2025-09,15:00,Completed,"Maria Martinez",Instagram,"Priya Shah",Stylist,Blowout,Hair,45.0,45.0,8.1
+313,2025-09-12,2025-09,10:00,Completed,"Maria Martinez",Instagram,"Maya Lopez","Senior Stylist","Men's Haircut",Hair,40.0,40.0,6.0
+316,2025-09-12,2025-09,11:00,Cancelled,"Lucas Brown",Instagram,"Maya Lopez","Senior Stylist",Blowout,Hair,45.0,0,0.0
+315,2025-09-12,2025-09,13:00,Completed,"Henry Brown",Referral,"Jordan Kim","Color Specialist","Full Color",Color,120.0,120.0,0.0
+314,2025-09-12,2025-09,14:00,Completed,"Ella Brown",Referral,"Sam Carter","Nail Technician",Pedicure,Nails,55.0,55.0,11.0
+312,2025-09-12,2025-09,17:00,Completed,"Daniel Brown",Instagram,"Priya Shah",Stylist,Blowout,Hair,45.0,45.0,0.0
+320,2025-09-13,2025-09,10:00,Completed,"Ruby Smith",Referral,"Jordan Kim","Color Specialist","Men's Haircut",Hair,40.0,40.0,10.0
+321,2025-09-13,2025-09,10:00,Completed,"Chloe Smith",Yelp,"Jordan Kim","Color Specialist",Blowout,Hair,45.0,45.0,9.0
+318,2025-09-13,2025-09,11:00,Completed,"Aiden Chen",Yelp,"Maya Lopez","Senior Stylist",Blowout,Hair,45.0,45.0,9.0
+322,2025-09-13,2025-09,15:00,Completed,"Nora Garcia",Walk-in,"Priya Shah",Stylist,Balayage,Color,220.0,220.0,39.6
+319,2025-09-13,2025-09,16:00,Completed,"Noah Smith",Instagram,"Sam Carter","Nail Technician","Gel Manicure",Nails,45.0,45.0,9.0
+317,2025-09-13,2025-09,17:00,Completed,"Owen Lopez",Instagram,"Priya Shah",Stylist,Highlights,Color,160.0,160.0,32.0
+327,2025-09-14,2025-09,09:00,Cancelled,"Chloe Davis",Walk-in,"Jordan Kim","Color Specialist","Men's Haircut",Hair,40.0,0,0.0
+323,2025-09-14,2025-09,10:00,Completed,"Mia Hall",Yelp,"Priya Shah",Stylist,Balayage,Color,220.0,220.0,39.6
+324,2025-09-14,2025-09,14:00,Completed,"Owen Brown",Instagram,"Maya Lopez","Senior Stylist","Men's Haircut",Hair,40.0,40.0,10.0
+325,2025-09-14,2025-09,15:00,Completed,"Lucas Nguyen",Yelp,"Priya Shah",Stylist,Highlights,Color,160.0,160.0,40.0
+326,2025-09-14,2025-09,17:00,Completed,"Chloe Garcia",Instagram,"Jordan Kim","Color Specialist",Balayage,Color,220.0,220.0,39.6
+329,2025-09-16,2025-09,16:00,Completed,"Liam Lopez",Referral,"Sam Carter","Nail Technician","Gel Manicure",Nails,45.0,45.0,11.25
+328,2025-09-16,2025-09,17:00,Completed,"Maria Martinez",Instagram,"Jordan Kim","Color Specialist","Women's Haircut",Hair,65.0,65.0,13.0
+330,2025-09-17,2025-09,13:00,Completed,"Ruby Martinez",Instagram,"Maya Lopez","Senior Stylist","Men's Haircut",Hair,40.0,40.0,7.2
+331,2025-09-17,2025-09,17:00,Completed,"Noah Clark",Walk-in,"Sam Carter","Nail Technician","Gel Manicure",Nails,45.0,45.0,11.25
+333,2025-09-18,2025-09,10:00,Completed,"Noah Patel",Yelp,"Jordan Kim","Color Specialist","Men's Haircut",Hair,40.0,40.0,6.0
+332,2025-09-18,2025-09,17:00,Completed,"Ivy Smith",Walk-in,"Priya Shah",Stylist,Highlights,Color,160.0,160.0,0.0
+336,2025-09-19,2025-09,11:00,Completed,"Nora Patel",Instagram,"Jordan Kim","Color Specialist","Deep Conditioning",Treatment,35.0,35.0,5.25
+339,2025-09-19,2025-09,11:00,No-show,"Owen Lopez",Instagram,"Maya Lopez","Senior Stylist","Deep Conditioning",Treatment,35.0,0,0.0
+335,2025-09-19,2025-09,12:00,Completed,"Ella Lee",Google,"Maya Lopez","Senior Stylist","Deep Conditioning",Treatment,35.0,35.0,8.75
+338,2025-09-19,2025-09,13:00,No-show,"Zoe Lopez",Google,"Priya Shah",Stylist,"Men's Haircut",Hair,40.0,0,0.0
+334,2025-09-19,2025-09,14:00,Cancelled,"Mia Lee",Instagram,"Jordan Kim","Color Specialist","Women's Haircut",Hair,65.0,0,0.0
+337,2025-09-19,2025-09,17:00,Completed,"Olivia Clark",Yelp,"Sam Carter","Nail Technician",Pedicure,Nails,55.0,55.0,13.75
+342,2025-09-20,2025-09,10:00,Completed,"Aiden Patel",Instagram,"Maya Lopez","Senior Stylist",Blowout,Hair,45.0,45.0,8.1
+340,2025-09-20,2025-09,11:00,Completed,"Aiden Garcia",Walk-in,"Sam Carter","Nail Technician","Eyebrow Wax",Waxing,20.0,20.0,3.0
+345,2025-09-20,2025-09,12:00,No-show,"Daniel Garcia",Walk-in,"Sam Carter","Nail Technician",Pedicure,Nails,55.0,0,0.0
+346,2025-09-20,2025-09,13:00,Completed,"Mia Hall",Yelp,"Priya Shah",Stylist,"Full Color",Color,120.0,120.0,30.0
+341,2025-09-20,2025-09,15:00,Completed,"Aria Davis",Instagram,"Sam Carter","Nail Technician","Gel Manicure",Nails,45.0,45.0,11.25
+343,2025-09-20,2025-09,16:00,Completed,"Chloe Garcia",Instagram,"Jordan Kim","Color Specialist","Deep Conditioning",Treatment,35.0,35.0,0.0
+344,2025-09-20,2025-09,16:00,Completed,"Daniel Garcia",Walk-in,"Sam Carter","Nail Technician",Pedicure,Nails,55.0,55.0,9.9
+347,2025-09-21,2025-09,09:00,Completed,"Leo Davis",Walk-in,"Priya Shah",Stylist,"Full Color",Color,120.0,120.0,24.0
+349,2025-09-21,2025-09,13:00,Completed,"Ruby Davis",Google,"Sam Carter","Nail Technician","Gel Manicure",Nails,45.0,45.0,8.1
+350,2025-09-21,2025-09,14:00,Completed,"Daniel Smith",Instagram,"Maya Lopez","Senior Stylist",Blowout,Hair,45.0,45.0,6.75
+348,2025-09-21,2025-09,16:00,Completed,"Lucas Brown",Instagram,"Maya Lopez","Senior Stylist","Eyebrow Wax",Waxing,20.0,20.0,4.0
+352,2025-09-23,2025-09,10:00,Completed,"Chloe Garcia",Instagram,"Jordan Kim","Color Specialist","Women's Haircut",Hair,65.0,65.0,9.75
+351,2025-09-23,2025-09,12:00,Completed,"Noah Smith",Instagram,"Priya Shah",Stylist,"Men's Haircut",Hair,40.0,40.0,0.0
+353,2025-09-23,2025-09,14:00,Completed,"Isabella Clark",Instagram,"Jordan Kim","Color Specialist","Full Color",Color,120.0,120.0,24.0
+354,2025-09-24,2025-09,10:00,Completed,"Layla Davis",Google,"Maya Lopez","Senior Stylist","Men's Haircut",Hair,40.0,40.0,7.2
+355,2025-09-24,2025-09,11:00,Completed,"Henry Patel",Walk-in,"Maya Lopez","Senior Stylist","Women's Haircut",Hair,65.0,65.0,16.25
+357,2025-09-24,2025-09,12:00,Completed,"Aiden Garcia",Walk-in,"Priya Shah",Stylist,Balayage,Color,220.0,220.0,0.0
+356,2025-09-24,2025-09,14:00,Completed,"Ruby Smith",Referral,"Priya Shah",Stylist,Balayage,Color,220.0,220.0,33.0
+359,2025-09-25,2025-09,10:00,Completed,"Luna Lee",Instagram,"Jordan Kim","Color Specialist","Women's Haircut",Hair,65.0,65.0,16.25
+358,2025-09-25,2025-09,14:00,No-show,"Jack Wilson",Yelp,"Priya Shah",Stylist,Highlights,Color,160.0,0,0.0
+361,2025-09-26,2025-09,09:00,Completed,"Henry Clark",Walk-in,"Priya Shah",Stylist,Blowout,Hair,45.0,45.0,6.75
+362,2025-09-26,2025-09,10:00,Completed,"Leo Martinez",Instagram,"Jordan Kim","Color Specialist","Women's Haircut",Hair,65.0,65.0,0.0
+364,2025-09-26,2025-09,11:00,Completed,"Leo Davis",Walk-in,"Priya Shah",Stylist,Blowout,Hair,45.0,45.0,0.0
+360,2025-09-26,2025-09,12:00,Completed,"Mia Hall",Yelp,"Sam Carter","Nail Technician","Gel Manicure",Nails,45.0,45.0,11.25
+363,2025-09-26,2025-09,15:00,Cancelled,"Zoe Lopez",Google,"Maya Lopez","Senior Stylist","Eyebrow Wax",Waxing,20.0,0,0.0
+365,2025-09-27,2025-09,09:00,Cancelled,"Camila Young",Referral,"Maya Lopez","Senior Stylist","Women's Haircut",Hair,65.0,0,0.0
+368,2025-09-27,2025-09,11:00,Completed,"Isabella Smith",Referral,"Maya Lopez","Senior Stylist","Women's Haircut",Hair,65.0,65.0,13.0
+369,2025-09-27,2025-09,13:00,Completed,"Camila Young",Referral,"Sam Carter","Nail Technician","Gel Manicure",Nails,45.0,45.0,6.75
+366,2025-09-27,2025-09,17:00,Completed,"Grace Hall",Walk-in,"Jordan Kim","Color Specialist",Blowout,Hair,45.0,45.0,9.0
+367,2025-09-27,2025-09,17:00,Completed,"Chloe Garcia",Instagram,"Priya Shah",Stylist,"Women's Haircut",Hair,65.0,65.0,11.7
+371,2025-09-28,2025-09,10:00,Completed,"Ivy Nguyen",Yelp,"Sam Carter","Nail Technician","Gel Manicure",Nails,45.0,45.0,6.75
+370,2025-09-28,2025-09,16:00,Completed,"Isabella Patel",Walk-in,"Maya Lopez","Senior Stylist","Eyebrow Wax",Waxing,20.0,20.0,0.0
+372,2025-09-28,2025-09,17:00,Completed,"Chloe Garcia",Instagram,"Jordan Kim","Color Specialist","Women's Haircut",Hair,65.0,65.0,11.7
+375,2025-09-30,2025-09,09:00,Completed,"Aiden Patel",Instagram,"Priya Shah",Stylist,"Full Color",Color,120.0,120.0,30.0
+373,2025-09-30,2025-09,10:00,Completed,"Liam Allen",Referral,"Sam Carter","Nail Technician","Gel Manicure",Nails,45.0,45.0,0.0
+374,2025-09-30,2025-09,10:00,Completed,"Ivy Lopez",Yelp,"Priya Shah",Stylist,Blowout,Hair,45.0,45.0,11.25
+376,2025-09-30,2025-09,10:00,Completed,"Olivia Davis",Referral,"Maya Lopez","Senior Stylist","Women's Haircut",Hair,65.0,65.0,16.25
+377,2025-10-01,2025-10,09:00,Completed,"Layla Martinez",Instagram,"Maya Lopez","Senior Stylist","Deep Conditioning",Treatment,35.0,35.0,7.0
+379,2025-10-01,2025-10,14:00,Completed,"Aiden Chen",Yelp,"Priya Shah",Stylist,"Men's Haircut",Hair,40.0,40.0,0.0
+378,2025-10-01,2025-10,17:00,Completed,"Aiden Garcia",Walk-in,"Maya Lopez","Senior Stylist","Women's Haircut",Hair,65.0,65.0,13.0
+380,2025-10-02,2025-10,11:00,Completed,"Owen Brown",Instagram,"Sam Carter","Nail Technician","Gel Manicure",Nails,45.0,45.0,11.25
+383,2025-10-02,2025-10,12:00,Completed,"Ruby Davis",Google,"Priya Shah",Stylist,Highlights,Color,160.0,160.0,40.0
+381,2025-10-02,2025-10,16:00,Cancelled,"Zoe Lopez",Google,"Maya Lopez","Senior Stylist","Eyebrow Wax",Waxing,20.0,0,0.0
+382,2025-10-02,2025-10,17:00,Completed,"Ruby Hall",Yelp,"Maya Lopez","Senior Stylist","Men's Haircut",Hair,40.0,40.0,7.2
+384,2025-10-02,2025-10,17:00,Completed,"Ava Lopez",Google,"Maya Lopez","Senior Stylist","Eyebrow Wax",Waxing,20.0,20.0,3.0
+388,2025-10-03,2025-10,10:00,Completed,"Ava Lopez",Google,"Jordan Kim","Color Specialist","Women's Haircut",Hair,65.0,65.0,9.75
+386,2025-10-03,2025-10,15:00,Completed,"Grace Hall",Walk-in,"Priya Shah",Stylist,"Women's Haircut",Hair,65.0,65.0,11.7
+387,2025-10-03,2025-10,15:00,Completed,"Sofia Clark",Instagram,"Jordan Kim","Color Specialist","Full Color",Color,120.0,120.0,0.0
+390,2025-10-03,2025-10,15:00,Completed,"Ella Lee",Google,"Maya Lopez","Senior Stylist","Women's Haircut",Hair,65.0,65.0,16.25
+389,2025-10-03,2025-10,16:00,No-show,"Aiden Garcia",Walk-in,"Priya Shah",Stylist,"Full Color",Color,120.0,0,0.0
+385,2025-10-03,2025-10,17:00,Completed,"Ruby Smith",Referral,"Maya Lopez","Senior Stylist",Blowout,Hair,45.0,45.0,0.0
+393,2025-10-04,2025-10,10:00,Completed,"Aiden Chen",Yelp,"Maya Lopez","Senior Stylist","Eyebrow Wax",Waxing,20.0,20.0,3.0
+395,2025-10-04,2025-10,10:00,Completed,"Daniel Brown",Instagram,"Jordan Kim","Color Specialist","Full Color",Color,120.0,120.0,21.6
+391,2025-10-04,2025-10,13:00,Completed,"Henry Wilson",Instagram,"Maya Lopez","Senior Stylist","Eyebrow Wax",Waxing,20.0,20.0,3.6
+392,2025-10-04,2025-10,14:00,Completed,"Ava Garcia",Google,"Priya Shah",Stylist,Blowout,Hair,45.0,45.0,8.1
+394,2025-10-04,2025-10,17:00,Completed,"Daniel Brown",Instagram,"Maya Lopez","Senior Stylist","Men's Haircut",Hair,40.0,40.0,6.0
+396,2025-10-05,2025-10,10:00,Completed,"Aiden Wilson",Referral,"Sam Carter","Nail Technician",Pedicure,Nails,55.0,55.0,9.9
+397,2025-10-05,2025-10,13:00,Completed,"Noah Smith",Instagram,"Jordan Kim","Color Specialist","Women's Haircut",Hair,65.0,65.0,9.75
+398,2025-10-05,2025-10,17:00,Completed,"Lucas Brown",Instagram,"Jordan Kim","Color Specialist",Blowout,Hair,45.0,45.0,6.75
+399,2025-10-07,2025-10,10:00,Completed,"Noah Allen",Referral,"Sam Carter","Nail Technician",Pedicure,Nails,55.0,55.0,8.25
+400,2025-10-07,2025-10,10:00,Completed,"Owen Brown",Instagram,"Sam Carter","Nail Technician",Pedicure,Nails,55.0,55.0,9.9
+401,2025-10-07,2025-10,12:00,Cancelled,"Aiden Garcia",Walk-in,"Maya Lopez","Senior Stylist","Women's Haircut",Hair,65.0,0,0.0
+402,2025-10-08,2025-10,10:00,Completed,"Olivia Clark",Yelp,"Jordan Kim","Color Specialist","Women's Haircut",Hair,65.0,65.0,13.0
+404,2025-10-08,2025-10,11:00,Completed,"Nora Patel",Instagram,"Maya Lopez","Senior Stylist","Women's Haircut",Hair,65.0,65.0,13.0
+405,2025-10-08,2025-10,12:00,Completed,"Henry Patel",Walk-in,"Priya Shah",Stylist,"Women's Haircut",Hair,65.0,65.0,13.0
+403,2025-10-08,2025-10,15:00,Completed,"Noah Brown",Yelp,"Priya Shah",Stylist,"Eyebrow Wax",Waxing,20.0,20.0,4.0
+406,2025-10-08,2025-10,15:00,Completed,"Luna Hall",Walk-in,"Jordan Kim","Color Specialist","Women's Haircut",Hair,65.0,65.0,9.75
+409,2025-10-09,2025-10,09:00,Cancelled,"Jack Nguyen",Google,"Maya Lopez","Senior Stylist","Men's Haircut",Hair,40.0,0,0.0
+407,2025-10-09,2025-10,15:00,Completed,"Aria Allen",Walk-in,"Sam Carter","Nail Technician",Pedicure,Nails,55.0,55.0,9.9
+408,2025-10-09,2025-10,17:00,Completed,"Maria Martinez",Instagram,"Sam Carter","Nail Technician",Pedicure,Nails,55.0,55.0,9.9
+410,2025-10-09,2025-10,17:00,Completed,"Hannah Lee",Instagram,"Jordan Kim","Color Specialist","Women's Haircut",Hair,65.0,65.0,16.25
+411,2025-10-10,2025-10,12:00,Completed,"Ava Lopez",Google,"Priya Shah",Stylist,"Women's Haircut",Hair,65.0,65.0,0.0
+412,2025-10-10,2025-10,14:00,Cancelled,"Grace Hall",Walk-in,"Priya Shah",Stylist,Highlights,Color,160.0,0,0.0
+413,2025-10-10,2025-10,14:00,Completed,"Zoe Lopez",Google,"Maya Lopez","Senior Stylist","Women's Haircut",Hair,65.0,65.0,11.7
+414,2025-10-10,2025-10,14:00,Cancelled,"Aiden Garcia",Walk-in,"Priya Shah",Stylist,"Women's Haircut",Hair,65.0,0,0.0
+415,2025-10-10,2025-10,16:00,Completed,"Leo Davis",Walk-in,"Jordan Kim","Color Specialist",Highlights,Color,160.0,160.0,24.0
+418,2025-10-11,2025-10,09:00,Completed,"Aiden Garcia",Walk-in,"Sam Carter","Nail Technician",Pedicure,Nails,55.0,55.0,13.75
+417,2025-10-11,2025-10,11:00,Completed,"Ruby Smith",Referral,"Maya Lopez","Senior Stylist","Eyebrow Wax",Waxing,20.0,20.0,3.0
+416,2025-10-11,2025-10,12:00,Completed,"Owen Clark",Instagram,"Priya Shah",Stylist,"Women's Haircut",Hair,65.0,65.0,13.0
+423,2025-10-11,2025-10,13:00,Completed,"Olivia Clark",Yelp,"Priya Shah",Stylist,Blowout,Hair,45.0,45.0,0.0
+422,2025-10-11,2025-10,14:00,Completed,"Mia Wilson",Walk-in,"Priya Shah",Stylist,"Women's Haircut",Hair,65.0,65.0,16.25
+420,2025-10-11,2025-10,15:00,Completed,"Ava Lopez",Google,"Priya Shah",Stylist,Blowout,Hair,45.0,45.0,8.1
+421,2025-10-11,2025-10,15:00,Completed,"Nora Wilson",Yelp,"Maya Lopez","Senior Stylist","Women's Haircut",Hair,65.0,65.0,13.0
+419,2025-10-11,2025-10,17:00,Cancelled,"Chloe Garcia",Instagram,"Maya Lopez","Senior Stylist","Women's Haircut",Hair,65.0,0,0.0
+426,2025-10-12,2025-10,10:00,Completed,"Aiden Chen",Yelp,"Maya Lopez","Senior Stylist","Eyebrow Wax",Waxing,20.0,20.0,3.6
+427,2025-10-12,2025-10,10:00,Completed,"Daniel Brown",Instagram,"Maya Lopez","Senior Stylist","Men's Haircut",Hair,40.0,40.0,0.0
+424,2025-10-12,2025-10,11:00,Completed,"Daniel Garcia",Walk-in,"Sam Carter","Nail Technician",Pedicure,Nails,55.0,55.0,13.75
+425,2025-10-12,2025-10,11:00,Completed,"Aiden Chen",Yelp,"Priya Shah",Stylist,Highlights,Color,160.0,160.0,0.0
+429,2025-10-12,2025-10,14:00,Completed,"Henry Patel",Walk-in,"Priya Shah",Stylist,"Full Color",Color,120.0,120.0,0.0
+428,2025-10-12,2025-10,15:00,No-show,"Henry Brown",Referral,"Jordan Kim","Color Specialist","Women's Haircut",Hair,65.0,0,0.0
+431,2025-10-14,2025-10,10:00,Completed,"Nora Wilson",Yelp,"Maya Lopez","Senior Stylist","Men's Haircut",Hair,40.0,40.0,8.0
+430,2025-10-14,2025-10,11:00,Completed,"Ruby Martinez",Instagram,"Jordan Kim","Color Specialist",Highlights,Color,160.0,160.0,0.0
+433,2025-10-14,2025-10,11:00,Completed,"Henry Hall",Yelp,"Sam Carter","Nail Technician","Gel Manicure",Nails,45.0,45.0,9.0
+434,2025-10-14,2025-10,12:00,Completed,"Stella Allen",Yelp,"Maya Lopez","Senior Stylist","Women's Haircut",Hair,65.0,65.0,16.25
+435,2025-10-14,2025-10,13:00,Completed,"Henry Brown",Referral,"Sam Carter","Nail Technician","Gel Manicure",Nails,45.0,45.0,0.0
+432,2025-10-14,2025-10,14:00,Completed,"Ruby Garcia",Walk-in,"Maya Lopez","Senior Stylist","Women's Haircut",Hair,65.0,65.0,16.25
+436,2025-10-15,2025-10,11:00,Completed,"Noah Smith",Instagram,"Priya Shah",Stylist,Highlights,Color,160.0,160.0,0.0
+437,2025-10-15,2025-10,16:00,Completed,"Camila Wilson",Referral,"Priya Shah",Stylist,"Men's Haircut",Hair,40.0,40.0,0.0
+438,2025-10-15,2025-10,16:00,Completed,"Emma Lee",Walk-in,"Jordan Kim","Color Specialist",Balayage,Color,220.0,220.0,39.6
+441,2025-10-16,2025-10,09:00,Completed,"Noah Patel",Yelp,"Jordan Kim","Color Specialist","Men's Haircut",Hair,40.0,40.0,0.0
+439,2025-10-16,2025-10,10:00,Completed,"Sofia Wilson",Yelp,"Jordan Kim","Color Specialist","Deep Conditioning",Treatment,35.0,35.0,7.0
+440,2025-10-16,2025-10,11:00,Completed,"Chloe Smith",Yelp,"Jordan Kim","Color Specialist","Deep Conditioning",Treatment,35.0,35.0,6.3
+444,2025-10-16,2025-10,12:00,Completed,"Nora Patel",Instagram,"Sam Carter","Nail Technician","Eyebrow Wax",Waxing,20.0,20.0,0.0
+442,2025-10-16,2025-10,15:00,No-show,"Ella Lee",Google,"Priya Shah",Stylist,Blowout,Hair,45.0,0,0.0
+443,2025-10-16,2025-10,17:00,Completed,"Leo Clark",Google,"Priya Shah",Stylist,Highlights,Color,160.0,160.0,40.0
+445,2025-10-17,2025-10,10:00,Cancelled,"Aiden Garcia",Walk-in,"Sam Carter","Nail Technician","Gel Manicure",Nails,45.0,0,0.0
+448,2025-10-17,2025-10,10:00,Completed,"Mia Hall",Yelp,"Priya Shah",Stylist,"Men's Haircut",Hair,40.0,40.0,10.0
+450,2025-10-17,2025-10,10:00,Completed,"Ruby Martinez",Instagram,"Priya Shah",Stylist,Balayage,Color,220.0,220.0,33.0
+451,2025-10-17,2025-10,10:00,Completed,"Leo Davis",Walk-in,"Jordan Kim","Color Specialist",Highlights,Color,160.0,160.0,0.0
+446,2025-10-17,2025-10,12:00,Completed,"Daniel Brown",Instagram,"Maya Lopez","Senior Stylist","Eyebrow Wax",Waxing,20.0,20.0,3.0
+447,2025-10-17,2025-10,15:00,Completed,"Owen Clark",Instagram,"Priya Shah",Stylist,"Women's Haircut",Hair,65.0,65.0,9.75
+452,2025-10-17,2025-10,15:00,Completed,"Ruby Martinez",Instagram,"Jordan Kim","Color Specialist","Deep Conditioning",Treatment,35.0,35.0,7.0
+449,2025-10-17,2025-10,17:00,Completed,"Noah Smith",Instagram,"Jordan Kim","Color Specialist",Blowout,Hair,45.0,45.0,0.0
+459,2025-10-18,2025-10,10:00,Completed,"Liam Smith",Yelp,"Jordan Kim","Color Specialist","Full Color",Color,120.0,120.0,30.0
+456,2025-10-18,2025-10,11:00,Completed,"Daniel Garcia",Walk-in,"Sam Carter","Nail Technician","Gel Manicure",Nails,45.0,45.0,9.0
+460,2025-10-18,2025-10,11:00,Completed,"Luna Wilson",Walk-in,"Sam Carter","Nail Technician",Pedicure,Nails,55.0,55.0,8.25
+454,2025-10-18,2025-10,13:00,Cancelled,"Nora Chen",Instagram,"Jordan Kim","Color Specialist","Women's Haircut",Hair,65.0,0,0.0
+455,2025-10-18,2025-10,13:00,Completed,"Lucas Brown",Instagram,"Sam Carter","Nail Technician",Pedicure,Nails,55.0,55.0,11.0
+453,2025-10-18,2025-10,15:00,Completed,"Owen Clark",Instagram,"Maya Lopez","Senior Stylist","Men's Haircut",Hair,40.0,40.0,7.2
+457,2025-10-18,2025-10,15:00,Completed,"Ruby Hall",Yelp,"Priya Shah",Stylist,"Men's Haircut",Hair,40.0,40.0,0.0
+458,2025-10-18,2025-10,16:00,Completed,"Henry Clark",Walk-in,"Jordan Kim","Color Specialist","Men's Haircut",Hair,40.0,40.0,7.2
+462,2025-10-19,2025-10,09:00,Completed,"Leo Martinez",Instagram,"Jordan Kim","Color Specialist",Balayage,Color,220.0,220.0,44.0
+461,2025-10-19,2025-10,12:00,Completed,"Aria Davis",Instagram,"Priya Shah",Stylist,"Full Color",Color,120.0,120.0,24.0
+463,2025-10-19,2025-10,17:00,Completed,"Emma Brown",Walk-in,"Jordan Kim","Color Specialist","Women's Haircut",Hair,65.0,65.0,9.75
+464,2025-10-21,2025-10,09:00,Completed,"Jack Wilson",Yelp,"Sam Carter","Nail Technician","Gel Manicure",Nails,45.0,45.0,6.75
+466,2025-10-21,2025-10,09:00,Completed,"Ivy Smith",Walk-in,"Maya Lopez","Senior Stylist",Blowout,Hair,45.0,45.0,6.75
+465,2025-10-21,2025-10,12:00,Completed,"Daniel Garcia",Walk-in,"Sam Carter","Nail Technician",Pedicure,Nails,55.0,55.0,8.25
+467,2025-10-21,2025-10,12:00,Completed,"Mia Wilson",Walk-in,"Jordan Kim","Color Specialist",Highlights,Color,160.0,160.0,28.8
+468,2025-10-21,2025-10,15:00,Cancelled,"Chloe Garcia",Instagram,"Sam Carter","Nail Technician","Gel Manicure",Nails,45.0,0,0.0
+472,2025-10-22,2025-10,13:00,Completed,"Mia Wilson",Walk-in,"Jordan Kim","Color Specialist","Deep Conditioning",Treatment,35.0,35.0,8.75
+470,2025-10-22,2025-10,14:00,Completed,"Isabella Nguyen",Referral,"Priya Shah",Stylist,"Women's Haircut",Hair,65.0,65.0,16.25
+473,2025-10-22,2025-10,14:00,Completed,"Liam Clark",Walk-in,"Jordan Kim","Color Specialist","Deep Conditioning",Treatment,35.0,35.0,0.0
+471,2025-10-22,2025-10,16:00,Completed,"Mia Chen",Instagram,"Maya Lopez","Senior Stylist","Men's Haircut",Hair,40.0,40.0,7.2
+469,2025-10-22,2025-10,17:00,Completed,"Noah Allen",Referral,"Jordan Kim","Color Specialist","Men's Haircut",Hair,40.0,40.0,8.0
+477,2025-10-23,2025-10,13:00,Completed,"Mia Hall",Yelp,"Maya Lopez","Senior Stylist","Deep Conditioning",Treatment,35.0,35.0,5.25
+475,2025-10-23,2025-10,14:00,Completed,"Isabella Nguyen",Referral,"Maya Lopez","Senior Stylist","Eyebrow Wax",Waxing,20.0,20.0,3.0
+476,2025-10-23,2025-10,14:00,Completed,"Nora Patel",Instagram,"Priya Shah",Stylist,Balayage,Color,220.0,220.0,33.0
+478,2025-10-23,2025-10,14:00,Completed,"Henry Brown",Referral,"Sam Carter","Nail Technician","Gel Manicure",Nails,45.0,45.0,6.75
+474,2025-10-23,2025-10,15:00,Completed,"Zoe Lopez",Google,"Jordan Kim","Color Specialist","Men's Haircut",Hair,40.0,40.0,0.0
+479,2025-10-23,2025-10,15:00,Completed,"Ella Patel",Instagram,"Sam Carter","Nail Technician","Gel Manicure",Nails,45.0,45.0,8.1
+482,2025-10-24,2025-10,11:00,No-show,"Nora Garcia",Walk-in,"Maya Lopez","Senior Stylist",Blowout,Hair,45.0,0,0.0
+483,2025-10-24,2025-10,11:00,Completed,"Ella Brown",Referral,"Priya Shah",Stylist,"Eyebrow Wax",Waxing,20.0,20.0,3.0
+485,2025-10-24,2025-10,11:00,Completed,"Daniel Brown",Instagram,"Maya Lopez","Senior Stylist","Men's Haircut",Hair,40.0,40.0,0.0
+481,2025-10-24,2025-10,12:00,Completed,"Ivy Martinez",Walk-in,"Priya Shah",Stylist,Balayage,Color,220.0,220.0,44.0
+484,2025-10-24,2025-10,14:00,Completed,"Hannah Lee",Instagram,"Jordan Kim","Color Specialist","Full Color",Color,120.0,120.0,0.0
+486,2025-10-24,2025-10,15:00,Completed,"Owen Brown",Instagram,"Jordan Kim","Color Specialist",Blowout,Hair,45.0,45.0,9.0
+480,2025-10-24,2025-10,16:00,Completed,"Ivy Smith",Walk-in,"Maya Lopez","Senior Stylist","Men's Haircut",Hair,40.0,40.0,10.0
+487,2025-10-25,2025-10,09:00,Cancelled,"Ruby Smith",Referral,"Priya Shah",Stylist,"Full Color",Color,120.0,0,0.0
+488,2025-10-25,2025-10,09:00,Completed,"Aria Nguyen",Referral,"Jordan Kim","Color Specialist","Full Color",Color,120.0,120.0,18.0
+493,2025-10-25,2025-10,09:00,Completed,"Grace Hall",Walk-in,"Priya Shah",Stylist,"Eyebrow Wax",Waxing,20.0,20.0,3.0
+489,2025-10-25,2025-10,11:00,Completed,"Aiden Chen",Yelp,"Jordan Kim","Color Specialist","Deep Conditioning",Treatment,35.0,35.0,8.75
+494,2025-10-25,2025-10,11:00,Completed,"Aiden Wilson",Referral,"Priya Shah",Stylist,"Women's Haircut",Hair,65.0,65.0,0.0
+490,2025-10-25,2025-10,13:00,Cancelled,"Camila Young",Referral,"Maya Lopez","Senior Stylist","Women's Haircut",Hair,65.0,0,0.0
+492,2025-10-25,2025-10,14:00,Completed,"Zoe Lopez",Google,"Jordan Kim","Color Specialist",Blowout,Hair,45.0,45.0,6.75
+491,2025-10-25,2025-10,15:00,Cancelled,"Noah Clark",Walk-in,"Priya Shah",Stylist,"Full Color",Color,120.0,0,0.0
+495,2025-10-26,2025-10,09:00,Completed,"Henry Patel",Walk-in,"Priya Shah",Stylist,"Men's Haircut",Hair,40.0,40.0,0.0
+496,2025-10-26,2025-10,09:00,Completed,"Layla Wilson",Referral,"Sam Carter","Nail Technician","Gel Manicure",Nails,45.0,45.0,9.0
+500,2025-10-26,2025-10,10:00,Completed,"Owen Lopez",Instagram,"Priya Shah",Stylist,Balayage,Color,220.0,220.0,44.0
+498,2025-10-26,2025-10,15:00,Completed,"Chloe Garcia",Instagram,"Priya Shah",Stylist,Balayage,Color,220.0,220.0,55.0
+499,2025-10-26,2025-10,15:00,Completed,"Ivy Smith",Walk-in,"Jordan Kim","Color Specialist",Balayage,Color,220.0,220.0,0.0
+497,2025-10-26,2025-10,16:00,Completed,"Daniel Brown",Instagram,"Jordan Kim","Color Specialist","Women's Haircut",Hair,65.0,65.0,9.75
+504,2025-10-28,2025-10,10:00,Cancelled,"Hannah Lee",Instagram,"Priya Shah",Stylist,"Women's Haircut",Hair,65.0,0,0.0
+501,2025-10-28,2025-10,14:00,Completed,"Mia Chen",Instagram,"Sam Carter","Nail Technician",Pedicure,Nails,55.0,55.0,9.9
+502,2025-10-28,2025-10,16:00,Completed,"Ruby Garcia",Walk-in,"Jordan Kim","Color Specialist",Highlights,Color,160.0,160.0,0.0
+503,2025-10-28,2025-10,16:00,Completed,"Lucas Brown",Instagram,"Maya Lopez","Senior Stylist","Women's Haircut",Hair,65.0,65.0,0.0
+507,2025-10-29,2025-10,09:00,Completed,"Daniel Smith",Instagram,"Sam Carter","Nail Technician","Gel Manicure",Nails,45.0,45.0,6.75
+508,2025-10-29,2025-10,10:00,Completed,"Luna Garcia",Instagram,"Jordan Kim","Color Specialist","Deep Conditioning",Treatment,35.0,35.0,6.3
+506,2025-10-29,2025-10,14:00,Completed,"Mia Lee",Instagram,"Sam Carter","Nail Technician",Pedicure,Nails,55.0,55.0,0.0
+505,2025-10-29,2025-10,16:00,Completed,"Noah Clark",Walk-in,"Priya Shah",Stylist,"Eyebrow Wax",Waxing,20.0,20.0,3.0
+510,2025-10-30,2025-10,10:00,Completed,"Ava Patel",Referral,"Jordan Kim","Color Specialist",Balayage,Color,220.0,220.0,0.0
+512,2025-10-30,2025-10,11:00,Completed,"Maria Martinez",Instagram,"Priya Shah",Stylist,Highlights,Color,160.0,160.0,28.8
+509,2025-10-30,2025-10,13:00,Completed,"Owen Brown",Instagram,"Jordan Kim","Color Specialist",Blowout,Hair,45.0,45.0,9.0
+511,2025-10-30,2025-10,15:00,Cancelled,"Zoe Lopez",Google,"Sam Carter","Nail Technician",Pedicure,Nails,55.0,0,0.0
+517,2025-10-31,2025-10,09:00,Completed,"Zoe Patel",Referral,"Sam Carter","Nail Technician",Pedicure,Nails,55.0,55.0,8.25
+514,2025-10-31,2025-10,10:00,Completed,"Owen Brown",Instagram,"Maya Lopez","Senior Stylist",Blowout,Hair,45.0,45.0,8.1
+515,2025-10-31,2025-10,14:00,Completed,"Lucas Brown",Instagram,"Maya Lopez","Senior Stylist","Deep Conditioning",Treatment,35.0,35.0,8.75
+513,2025-10-31,2025-10,16:00,Cancelled,"Daniel Garcia",Walk-in,"Maya Lopez","Senior Stylist","Deep Conditioning",Treatment,35.0,0,0.0
+516,2025-10-31,2025-10,16:00,Completed,"Daniel Smith",Instagram,"Sam Carter","Nail Technician","Gel Manicure",Nails,45.0,45.0,9.0
+521,2025-11-01,2025-11,09:00,Completed,"Daniel Brown",Instagram,"Jordan Kim","Color Specialist","Women's Haircut",Hair,65.0,65.0,13.0
+525,2025-11-01,2025-11,10:00,Completed,"Sofia Wilson",Yelp,"Sam Carter","Nail Technician","Gel Manicure",Nails,45.0,45.0,6.75
+522,2025-11-01,2025-11,13:00,Cancelled,"Lucas Brown",Instagram,"Jordan Kim","Color Specialist",Highlights,Color,160.0,0,0.0
+523,2025-11-01,2025-11,14:00,Completed,"Leo Davis",Walk-in,"Sam Carter","Nail Technician","Gel Manicure",Nails,45.0,45.0,0.0
+518,2025-11-01,2025-11,16:00,Completed,"Daniel Garcia",Walk-in,"Maya Lopez","Senior Stylist","Deep Conditioning",Treatment,35.0,35.0,6.3
+520,2025-11-01,2025-11,16:00,Completed,"Stella Martinez",Instagram,"Jordan Kim","Color Specialist","Women's Haircut",Hair,65.0,65.0,13.0
+519,2025-11-01,2025-11,17:00,Completed,"Ava Lopez",Google,"Maya Lopez","Senior Stylist","Women's Haircut",Hair,65.0,65.0,13.0
+524,2025-11-01,2025-11,17:00,Completed,"Olivia Clark",Yelp,"Sam Carter","Nail Technician",Pedicure,Nails,55.0,55.0,13.75
+528,2025-11-02,2025-11,12:00,Completed,"Henry Clark",Walk-in,"Jordan Kim","Color Specialist","Women's Haircut",Hair,65.0,65.0,9.75
+527,2025-11-02,2025-11,15:00,Completed,"Layla Martinez",Instagram,"Maya Lopez","Senior Stylist","Women's Haircut",Hair,65.0,65.0,16.25
+526,2025-11-02,2025-11,17:00,Completed,"Ella Brown",Referral,"Sam Carter","Nail Technician",Pedicure,Nails,55.0,55.0,0.0
+529,2025-11-04,2025-11,10:00,Completed,"Sofia Clark",Instagram,"Priya Shah",Stylist,Blowout,Hair,45.0,45.0,9.0
+532,2025-11-04,2025-11,11:00,Completed,"Hannah Lee",Instagram,"Sam Carter","Nail Technician","Eyebrow Wax",Waxing,20.0,20.0,3.0
+530,2025-11-04,2025-11,16:00,Completed,"Noah Clark",Walk-in,"Jordan Kim","Color Specialist",Highlights,Color,160.0,160.0,0.0
+531,2025-11-04,2025-11,16:00,Cancelled,"Luna Hall",Walk-in,"Priya Shah",Stylist,Blowout,Hair,45.0,0,0.0
+533,2025-11-04,2025-11,17:00,Cancelled,"Sofia Clark",Instagram,"Sam Carter","Nail Technician","Gel Manicure",Nails,45.0,0,0.0
+535,2025-11-05,2025-11,11:00,Completed,"Ava Lopez",Google,"Jordan Kim","Color Specialist","Full Color",Color,120.0,120.0,30.0
+537,2025-11-05,2025-11,11:00,No-show,"Aiden Wilson",Referral,"Sam Carter","Nail Technician","Gel Manicure",Nails,45.0,0,0.0
+534,2025-11-05,2025-11,13:00,Completed,"Zoe Lopez",Google,"Maya Lopez","Senior Stylist","Eyebrow Wax",Waxing,20.0,20.0,3.6
+539,2025-11-05,2025-11,15:00,Completed,"Chloe Garcia",Instagram,"Sam Carter","Nail Technician","Gel Manicure",Nails,45.0,45.0,11.25
+536,2025-11-05,2025-11,17:00,Completed,"Nora Wilson",Yelp,"Sam Carter","Nail Technician","Gel Manicure",Nails,45.0,45.0,6.75
+538,2025-11-05,2025-11,17:00,Completed,"Noah Chen",Walk-in,"Sam Carter","Nail Technician","Eyebrow Wax",Waxing,20.0,20.0,3.6
+542,2025-11-06,2025-11,09:00,Completed,"Zoe Lopez",Google,"Sam Carter","Nail Technician","Gel Manicure",Nails,45.0,45.0,8.1
+544,2025-11-06,2025-11,12:00,Completed,"Daniel Garcia",Walk-in,"Sam Carter","Nail Technician","Gel Manicure",Nails,45.0,45.0,8.1
+541,2025-11-06,2025-11,13:00,Completed,"Zoe Patel",Referral,"Sam Carter","Nail Technician","Gel Manicure",Nails,45.0,45.0,6.75
+543,2025-11-06,2025-11,16:00,Completed,"Emma Lee",Walk-in,"Priya Shah",Stylist,Highlights,Color,160.0,160.0,40.0
+540,2025-11-06,2025-11,17:00,Completed,"Henry Patel",Walk-in,"Maya Lopez","Senior Stylist",Blowout,Hair,45.0,45.0,9.0
+549,2025-11-07,2025-11,11:00,Completed,"Camila Wilson",Referral,"Jordan Kim","Color Specialist",Highlights,Color,160.0,160.0,28.8
+547,2025-11-07,2025-11,12:00,Completed,"Aria Nguyen",Referral,"Jordan Kim","Color Specialist",Highlights,Color,160.0,160.0,24.0
+545,2025-11-07,2025-11,14:00,No-show,"Ava Garcia",Google,"Priya Shah",Stylist,Blowout,Hair,45.0,0,0.0
+546,2025-11-07,2025-11,16:00,Completed,"Ella Nguyen",Walk-in,"Sam Carter","Nail Technician","Gel Manicure",Nails,45.0,45.0,8.1
+548,2025-11-07,2025-11,17:00,Completed,"Zoe Lopez",Google,"Maya Lopez","Senior Stylist","Women's Haircut",Hair,65.0,65.0,0.0
+550,2025-11-08,2025-11,09:00,Completed,"Luna Garcia",Instagram,"Sam Carter","Nail Technician","Gel Manicure",Nails,45.0,45.0,8.1
+554,2025-11-08,2025-11,14:00,Completed,"Daniel Smith",Instagram,"Maya Lopez","Senior Stylist","Men's Haircut",Hair,40.0,40.0,7.2
+553,2025-11-08,2025-11,15:00,Completed,"Isabella Clark",Instagram,"Sam Carter","Nail Technician",Pedicure,Nails,55.0,55.0,11.0
+551,2025-11-08,2025-11,16:00,Completed,"Emma Brown",Walk-in,"Sam Carter","Nail Technician",Pedicure,Nails,55.0,55.0,13.75
+552,2025-11-08,2025-11,17:00,Completed,"Ella Patel",Instagram,"Sam Carter","Nail Technician",Pedicure,Nails,55.0,55.0,8.25
+556,2025-11-09,2025-11,12:00,No-show,"Owen Brown",Instagram,"Maya Lopez","Senior Stylist",Blowout,Hair,45.0,0,0.0
+557,2025-11-09,2025-11,15:00,Completed,"Nora Patel",Instagram,"Maya Lopez","Senior Stylist","Men's Haircut",Hair,40.0,40.0,7.2
+555,2025-11-09,2025-11,17:00,Completed,"Grace Hall",Walk-in,"Priya Shah",Stylist,Balayage,Color,220.0,220.0,0.0
+558,2025-11-09,2025-11,17:00,Completed,"Lucas Brown",Instagram,"Priya Shah",Stylist,"Full Color",Color,120.0,120.0,24.0
+562,2025-11-11,2025-11,10:00,Completed,"Lucas Hall",Google,"Sam Carter","Nail Technician","Gel Manicure",Nails,45.0,45.0,6.75
+563,2025-11-11,2025-11,10:00,Completed,"Lucas Brown",Instagram,"Sam Carter","Nail Technician","Gel Manicure",Nails,45.0,45.0,6.75
+564,2025-11-11,2025-11,13:00,Completed,"Ruby Martinez",Instagram,"Jordan Kim","Color Specialist",Highlights,Color,160.0,160.0,32.0
+559,2025-11-11,2025-11,14:00,Completed,"Layla Martinez",Instagram,"Maya Lopez","Senior Stylist","Deep Conditioning",Treatment,35.0,35.0,0.0
+561,2025-11-11,2025-11,15:00,Completed,"Aiden Wilson",Referral,"Jordan Kim","Color Specialist",Balayage,Color,220.0,220.0,33.0
+560,2025-11-11,2025-11,17:00,Completed,"Camila Lopez",Walk-in,"Sam Carter","Nail Technician","Eyebrow Wax",Waxing,20.0,20.0,0.0
+570,2025-11-12,2025-11,09:00,Completed,"Zoe Patel",Referral,"Sam Carter","Nail Technician","Gel Manicure",Nails,45.0,45.0,11.25
+565,2025-11-12,2025-11,10:00,Completed,"Isabella Lopez",Google,"Priya Shah",Stylist,"Women's Haircut",Hair,65.0,65.0,16.25
+566,2025-11-12,2025-11,10:00,Completed,"Lucas Davis",Instagram,"Sam Carter","Nail Technician","Gel Manicure",Nails,45.0,45.0,11.25
+567,2025-11-12,2025-11,10:00,Completed,"Sofia Clark",Instagram,"Sam Carter","Nail Technician",Pedicure,Nails,55.0,55.0,11.0
+569,2025-11-12,2025-11,13:00,No-show,"Ivy Brown",Google,"Priya Shah",Stylist,Blowout,Hair,45.0,0,0.0
+568,2025-11-12,2025-11,16:00,Completed,"Liam Allen",Referral,"Sam Carter","Nail Technician",Pedicure,Nails,55.0,55.0,8.25
+572,2025-11-13,2025-11,12:00,Completed,"Nora Wilson",Yelp,"Sam Carter","Nail Technician","Gel Manicure",Nails,45.0,45.0,11.25
+573,2025-11-13,2025-11,13:00,Completed,"Chloe Davis",Walk-in,"Priya Shah",Stylist,"Women's Haircut",Hair,65.0,65.0,9.75
+571,2025-11-13,2025-11,15:00,Completed,"Owen Brown",Instagram,"Priya Shah",Stylist,"Women's Haircut",Hair,65.0,65.0,0.0
+574,2025-11-13,2025-11,17:00,Completed,"Sofia Lopez",Walk-in,"Jordan Kim","Color Specialist",Highlights,Color,160.0,160.0,40.0
+575,2025-11-14,2025-11,12:00,Completed,"Noah Martinez",Yelp,"Maya Lopez","Senior Stylist","Women's Haircut",Hair,65.0,65.0,13.0
+576,2025-11-14,2025-11,12:00,Completed,"Grace Hall",Walk-in,"Priya Shah",Stylist,Blowout,Hair,45.0,45.0,11.25
+578,2025-11-14,2025-11,14:00,Completed,"Chloe Garcia",Instagram,"Priya Shah",Stylist,"Women's Haircut",Hair,65.0,65.0,13.0
+579,2025-11-14,2025-11,15:00,Completed,"Camila Lopez",Walk-in,"Maya Lopez","Senior Stylist","Men's Haircut",Hair,40.0,40.0,7.2
+577,2025-11-14,2025-11,16:00,Completed,"Luna Young",Google,"Jordan Kim","Color Specialist","Women's Haircut",Hair,65.0,65.0,11.7
+581,2025-11-15,2025-11,10:00,Completed,"Maria Martinez",Instagram,"Priya Shah",Stylist,"Women's Haircut",Hair,65.0,65.0,9.75
+582,2025-11-15,2025-11,10:00,Completed,"Owen Smith",Yelp,"Priya Shah",Stylist,"Women's Haircut",Hair,65.0,65.0,0.0
+584,2025-11-15,2025-11,11:00,Completed,"Luna Hall",Walk-in,"Priya Shah",Stylist,Highlights,Color,160.0,160.0,24.0
+585,2025-11-15,2025-11,11:00,Completed,"Owen Smith",Yelp,"Priya Shah",Stylist,Highlights,Color,160.0,160.0,40.0
+583,2025-11-15,2025-11,12:00,Cancelled,"Daniel Garcia",Walk-in,"Priya Shah",Stylist,Balayage,Color,220.0,0,0.0
+580,2025-11-15,2025-11,16:00,Completed,"Chloe Martinez",Referral,"Jordan Kim","Color Specialist",Blowout,Hair,45.0,45.0,8.1
+586,2025-11-16,2025-11,11:00,Completed,"Noah Smith",Instagram,"Jordan Kim","Color Specialist","Full Color",Color,120.0,120.0,18.0
+587,2025-11-16,2025-11,11:00,Completed,"Daniel Brown",Instagram,"Priya Shah",Stylist,"Women's Haircut",Hair,65.0,65.0,13.0
+588,2025-11-16,2025-11,12:00,Completed,"Ivy Davis",Walk-in,"Jordan Kim","Color Specialist","Women's Haircut",Hair,65.0,65.0,11.7
+592,2025-11-18,2025-11,10:00,Completed,"Camila Lopez",Walk-in,"Sam Carter","Nail Technician","Gel Manicure",Nails,45.0,45.0,9.0
+591,2025-11-18,2025-11,13:00,Completed,"Aria Allen",Walk-in,"Priya Shah",Stylist,"Men's Haircut",Hair,40.0,40.0,10.0
+590,2025-11-18,2025-11,14:00,Completed,"Henry Patel",Walk-in,"Priya Shah",Stylist,"Women's Haircut",Hair,65.0,65.0,16.25
+589,2025-11-18,2025-11,15:00,Completed,"Owen Clark",Instagram,"Jordan Kim","Color Specialist","Women's Haircut",Hair,65.0,65.0,13.0
+596,2025-11-19,2025-11,10:00,Completed,"Ella Smith",Yelp,"Jordan Kim","Color Specialist",Blowout,Hair,45.0,45.0,9.0
+594,2025-11-19,2025-11,11:00,Completed,"Ruby Smith",Referral,"Jordan Kim","Color Specialist","Deep Conditioning",Treatment,35.0,35.0,8.75
+595,2025-11-19,2025-11,11:00,Completed,"Mia Wilson",Walk-in,"Maya Lopez","Senior Stylist","Men's Haircut",Hair,40.0,40.0,0.0
+593,2025-11-19,2025-11,16:00,Completed,"Owen Lopez",Instagram,"Jordan Kim","Color Specialist",Blowout,Hair,45.0,45.0,11.25
+597,2025-11-20,2025-11,09:00,Completed,"Aiden Wilson",Referral,"Jordan Kim","Color Specialist","Women's Haircut",Hair,65.0,65.0,9.75
+600,2025-11-20,2025-11,13:00,Cancelled,"Mia Chen",Instagram,"Jordan Kim","Color Specialist",Highlights,Color,160.0,0,0.0
+601,2025-11-20,2025-11,16:00,Completed,"Aiden Chen",Yelp,"Priya Shah",Stylist,Balayage,Color,220.0,220.0,44.0
+598,2025-11-20,2025-11,17:00,Completed,"Leo Davis",Walk-in,"Priya Shah",Stylist,"Women's Haircut",Hair,65.0,65.0,16.25
+599,2025-11-20,2025-11,17:00,No-show,"Zoe Patel",Referral,"Maya Lopez","Senior Stylist","Women's Haircut",Hair,65.0,0,0.0
+602,2025-11-20,2025-11,17:00,Completed,"Mia Chen",Instagram,"Sam Carter","Nail Technician",Pedicure,Nails,55.0,55.0,9.9
+610,2025-11-21,2025-11,09:00,Completed,"Owen Davis",Walk-in,"Priya Shah",Stylist,"Women's Haircut",Hair,65.0,65.0,0.0
+608,2025-11-21,2025-11,10:00,Completed,"Maria Martinez",Instagram,"Sam Carter","Nail Technician",Pedicure,Nails,55.0,55.0,9.9
+604,2025-11-21,2025-11,11:00,Completed,"Ruby Davis",Google,"Sam Carter","Nail Technician",Pedicure,Nails,55.0,55.0,8.25
+607,2025-11-21,2025-11,12:00,Cancelled,"Mia Lee",Instagram,"Sam Carter","Nail Technician","Gel Manicure",Nails,45.0,0,0.0
+609,2025-11-21,2025-11,13:00,Completed,"Layla Davis",Google,"Maya Lopez","Senior Stylist","Men's Haircut",Hair,40.0,40.0,10.0
+603,2025-11-21,2025-11,15:00,Completed,"Emma Brown",Walk-in,"Jordan Kim","Color Specialist","Women's Haircut",Hair,65.0,65.0,0.0
+606,2025-11-21,2025-11,15:00,Completed,"Daniel Smith",Instagram,"Sam Carter","Nail Technician","Gel Manicure",Nails,45.0,45.0,8.1
+605,2025-11-21,2025-11,17:00,Completed,"Layla Davis",Google,"Jordan Kim","Color Specialist",Balayage,Color,220.0,220.0,0.0
+615,2025-11-22,2025-11,11:00,Completed,"Leo Davis",Walk-in,"Sam Carter","Nail Technician",Pedicure,Nails,55.0,55.0,0.0
+613,2025-11-22,2025-11,12:00,Completed,"Mia Chen",Instagram,"Priya Shah",Stylist,"Eyebrow Wax",Waxing,20.0,20.0,5.0
+611,2025-11-22,2025-11,15:00,Completed,"Liam Allen",Referral,"Jordan Kim","Color Specialist","Women's Haircut",Hair,65.0,65.0,9.75
+614,2025-11-22,2025-11,16:00,Completed,"Maria Martinez",Instagram,"Priya Shah",Stylist,Blowout,Hair,45.0,45.0,8.1
+612,2025-11-22,2025-11,17:00,Completed,"Camila Wilson",Referral,"Priya Shah",Stylist,Highlights,Color,160.0,160.0,28.8
+616,2025-11-23,2025-11,10:00,Completed,"Daniel Brown",Instagram,"Sam Carter","Nail Technician","Gel Manicure",Nails,45.0,45.0,9.0
+617,2025-11-23,2025-11,11:00,Completed,"Ruby Martinez",Instagram,"Sam Carter","Nail Technician",Pedicure,Nails,55.0,55.0,0.0
+618,2025-11-23,2025-11,15:00,Completed,"Ava Patel",Referral,"Sam Carter","Nail Technician",Pedicure,Nails,55.0,55.0,9.9
+619,2025-11-23,2025-11,15:00,Cancelled,"Aiden Chen",Yelp,"Maya Lopez","Senior Stylist","Women's Haircut",Hair,65.0,0,0.0
+622,2025-11-25,2025-11,09:00,Completed,"Owen Lopez",Instagram,"Sam Carter","Nail Technician","Gel Manicure",Nails,45.0,45.0,0.0
+624,2025-11-25,2025-11,10:00,Cancelled,"Luna Wilson",Walk-in,"Maya Lopez","Senior Stylist","Women's Haircut",Hair,65.0,0,0.0
+620,2025-11-25,2025-11,11:00,Completed,"Mia Chen",Instagram,"Jordan Kim","Color Specialist","Full Color",Color,120.0,120.0,24.0
+621,2025-11-25,2025-11,12:00,Completed,"Ruby Smith",Referral,"Sam Carter","Nail Technician",Pedicure,Nails,55.0,55.0,13.75
+625,2025-11-25,2025-11,14:00,No-show,"Luna Hall",Walk-in,"Sam Carter","Nail Technician","Gel Manicure",Nails,45.0,0,0.0
+623,2025-11-25,2025-11,15:00,Completed,"Ava Lopez",Google,"Jordan Kim","Color Specialist","Women's Haircut",Hair,65.0,65.0,13.0
+630,2025-11-26,2025-11,10:00,Completed,"Daniel Garcia",Walk-in,"Priya Shah",Stylist,"Full Color",Color,120.0,120.0,18.0
+628,2025-11-26,2025-11,13:00,Completed,"Ava Patel",Referral,"Sam Carter","Nail Technician","Eyebrow Wax",Waxing,20.0,20.0,4.0
+626,2025-11-26,2025-11,15:00,Completed,"Aiden Chen",Yelp,"Priya Shah",Stylist,"Eyebrow Wax",Waxing,20.0,20.0,3.6
+629,2025-11-26,2025-11,16:00,Completed,"Leo Davis",Walk-in,"Sam Carter","Nail Technician",Pedicure,Nails,55.0,55.0,13.75
+627,2025-11-26,2025-11,17:00,Completed,"Camila Lopez",Walk-in,"Jordan Kim","Color Specialist","Full Color",Color,120.0,120.0,0.0
+634,2025-11-27,2025-11,12:00,Cancelled,"Leo Martinez",Instagram,"Priya Shah",Stylist,"Women's Haircut",Hair,65.0,0,0.0
+633,2025-11-27,2025-11,13:00,Completed,"Layla Davis",Google,"Priya Shah",Stylist,Blowout,Hair,45.0,45.0,6.75
+632,2025-11-27,2025-11,14:00,Completed,"Aria Davis",Instagram,"Priya Shah",Stylist,"Women's Haircut",Hair,65.0,65.0,9.75
+631,2025-11-27,2025-11,17:00,Completed,"Ava Patel",Referral,"Jordan Kim","Color Specialist",Blowout,Hair,45.0,45.0,8.1
+636,2025-11-28,2025-11,09:00,Completed,"Aiden Garcia",Walk-in,"Sam Carter","Nail Technician","Gel Manicure",Nails,45.0,45.0,11.25
+635,2025-11-28,2025-11,11:00,Completed,"Aiden Chen",Yelp,"Sam Carter","Nail Technician",Pedicure,Nails,55.0,55.0,0.0
+640,2025-11-28,2025-11,11:00,Completed,"Lucas Brown",Instagram,"Priya Shah",Stylist,Blowout,Hair,45.0,45.0,0.0
+637,2025-11-28,2025-11,14:00,Completed,"Ava Lopez",Google,"Sam Carter","Nail Technician",Pedicure,Nails,55.0,55.0,13.75
+638,2025-11-28,2025-11,15:00,Completed,"Daniel Garcia",Walk-in,"Priya Shah",Stylist,"Full Color",Color,120.0,120.0,30.0
+639,2025-11-28,2025-11,16:00,Cancelled,"Owen Brown",Instagram,"Priya Shah",Stylist,"Full Color",Color,120.0,0,0.0
+645,2025-11-29,2025-11,10:00,Completed,"Daniel Brown",Instagram,"Jordan Kim","Color Specialist",Highlights,Color,160.0,160.0,24.0
+642,2025-11-29,2025-11,11:00,Completed,"Luna Garcia",Instagram,"Priya Shah",Stylist,Balayage,Color,220.0,220.0,33.0
+646,2025-11-29,2025-11,11:00,Completed,"Leo Davis",Walk-in,"Sam Carter","Nail Technician",Pedicure,Nails,55.0,55.0,8.25
+641,2025-11-29,2025-11,12:00,Completed,"Grace Martinez",Google,"Priya Shah",Stylist,"Women's Haircut",Hair,65.0,65.0,0.0
+648,2025-11-29,2025-11,13:00,Completed,"Lucas Hall",Google,"Jordan Kim","Color Specialist","Men's Haircut",Hair,40.0,40.0,10.0
+643,2025-11-29,2025-11,14:00,Completed,"Ivy Smith",Walk-in,"Priya Shah",Stylist,"Eyebrow Wax",Waxing,20.0,20.0,4.0
+644,2025-11-29,2025-11,14:00,Completed,"Aiden Wilson",Referral,"Sam Carter","Nail Technician","Gel Manicure",Nails,45.0,45.0,8.1
+647,2025-11-29,2025-11,16:00,Completed,"Sofia Wilson",Yelp,"Jordan Kim","Color Specialist","Women's Haircut",Hair,65.0,65.0,16.25
+649,2025-11-30,2025-11,12:00,Completed,"Noah Smith",Instagram,"Sam Carter","Nail Technician","Gel Manicure",Nails,45.0,45.0,9.0
+650,2025-11-30,2025-11,14:00,Completed,"Mia Hall",Yelp,"Priya Shah",Stylist,"Women's Haircut",Hair,65.0,65.0,11.7
+651,2025-11-30,2025-11,14:00,Completed,"Leo Davis",Walk-in,"Priya Shah",Stylist,"Eyebrow Wax",Waxing,20.0,20.0,0.0
