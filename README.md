@@ -69,6 +69,8 @@ I exported the data from SQL to a CSV file and built a dashboard in Google Sheet
 
 👉 [View the Salon Performance Dashboard](https://docs.google.com/spreadsheets/d/1iq8j7Ko2rd3T8FEeI4klMK8sRn3zgui6qAHIwKtIVsI/edit?usp=sharing)
 
+👉 [View the Tableau Public version](https://public.tableau.com/app/profile/alie.erdenertsog/viz/SalonperformanceDashboard/Sheet4)
+
 **Key findings**
 - Revenue grew from $4,105 in June to a peak of $8,845 in October
 - Jordan Kim (Color Specialist) brought in the most revenue ($14,755), while Maya Lopez, the Senior Stylist, brought in the least ($4,490)
